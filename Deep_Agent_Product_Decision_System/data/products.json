@@ -1,0 +1,7382 @@
+[
+  {
+    "id": "P0001",
+    "name": "Astra Air Laptop 704",
+    "category": "laptop",
+    "price": 2180.71,
+    "rating": 4.3,
+    "review_count": 3468,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "weight_kg": 2.16,
+      "battery_hours": 12,
+      "gpu": "integrated",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 8GB RAM, 256GB SSD, integrated GPU, 12h battery"
+  },
+  {
+    "id": "P0002",
+    "name": "Astra Prime Laptop 325",
+    "category": "laptop",
+    "price": 1768.93,
+    "rating": 4.4,
+    "review_count": 3691,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "weight_kg": 1.06,
+      "battery_hours": 12,
+      "gpu": "RTX 4070",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 8GB RAM, 256GB SSD, RTX 4070 GPU, 12h battery, lightweight portable build"
+  },
+  {
+    "id": "P0003",
+    "name": "Norde Air Laptop 194",
+    "category": "laptop",
+    "price": 1103.0,
+    "rating": 3.4,
+    "review_count": 3124,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "weight_kg": 2.19,
+      "battery_hours": 10,
+      "gpu": "RTX 4060",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 16GB RAM, 256GB SSD, RTX 4060 GPU, 10h battery"
+  },
+  {
+    "id": "P0004",
+    "name": "Peak Air Laptop 665",
+    "category": "laptop",
+    "price": 1710.14,
+    "rating": 4.8,
+    "review_count": 2413,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "weight_kg": 2.34,
+      "battery_hours": 13,
+      "gpu": "integrated",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 8GB RAM, 512GB SSD, integrated GPU, 13h battery"
+  },
+  {
+    "id": "P0005",
+    "name": "Aurel Prime Laptop 384",
+    "category": "laptop",
+    "price": 2765.27,
+    "rating": 4.6,
+    "review_count": 3726,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 2.1,
+      "battery_hours": 6,
+      "gpu": "integrated",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 16GB RAM, 512GB SSD, integrated GPU, 6h battery"
+  },
+  {
+    "id": "P0006",
+    "name": "Kirei Max Laptop 573",
+    "category": "laptop",
+    "price": 1881.46,
+    "rating": 3.3,
+    "review_count": 3120,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 1.53,
+      "battery_hours": 11,
+      "gpu": "RTX 4050",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 16GB RAM, 512GB SSD, RTX 4050 GPU, 11h battery"
+  },
+  {
+    "id": "P0007",
+    "name": "Aurel Lite Laptop 680",
+    "category": "laptop",
+    "price": 2341.86,
+    "rating": 3.8,
+    "review_count": 2589,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 2.06,
+      "battery_hours": 6,
+      "gpu": "integrated",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 16GB RAM, 512GB SSD, integrated GPU, 6h battery"
+  },
+  {
+    "id": "P0008",
+    "name": "Astra Ultra Laptop 864",
+    "category": "laptop",
+    "price": 778.13,
+    "rating": 4.4,
+    "review_count": 4800,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "weight_kg": 1.57,
+      "battery_hours": 19,
+      "gpu": "integrated",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 16GB RAM, 1024GB SSD, integrated GPU, 19h battery"
+  },
+  {
+    "id": "P0009",
+    "name": "Aurel Max Laptop 742",
+    "category": "laptop",
+    "price": 663.64,
+    "rating": 3.1,
+    "review_count": 1322,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "weight_kg": 1.52,
+      "battery_hours": 9,
+      "gpu": "RTX 4070",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 32GB RAM, 1024GB SSD, RTX 4070 GPU, 9h battery"
+  },
+  {
+    "id": "P0010",
+    "name": "Nexon Air Laptop 798",
+    "category": "laptop",
+    "price": 2732.03,
+    "rating": 4.6,
+    "review_count": 4410,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 256,
+      "weight_kg": 1.55,
+      "battery_hours": 19,
+      "gpu": "RTX 4070",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 32GB RAM, 256GB SSD, RTX 4070 GPU, 19h battery"
+  },
+  {
+    "id": "P0011",
+    "name": "Bolt Flex Laptop 880",
+    "category": "laptop",
+    "price": 457.63,
+    "rating": 4.4,
+    "review_count": 1475,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 1.09,
+      "battery_hours": 18,
+      "gpu": "integrated",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 16GB RAM, 512GB SSD, integrated GPU, 18h battery, lightweight portable build"
+  },
+  {
+    "id": "P0012",
+    "name": "Astra Pro Laptop 713",
+    "category": "laptop",
+    "price": 2241.9,
+    "rating": 4.0,
+    "review_count": 2667,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "weight_kg": 2.33,
+      "battery_hours": 11,
+      "gpu": "integrated",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 8GB RAM, 512GB SSD, integrated GPU, 11h battery"
+  },
+  {
+    "id": "P0013",
+    "name": "Aurel Air Laptop 849",
+    "category": "laptop",
+    "price": 586.12,
+    "rating": 4.7,
+    "review_count": 3993,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 256,
+      "weight_kg": 1.09,
+      "battery_hours": 16,
+      "gpu": "RTX 4050",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 32GB RAM, 256GB SSD, RTX 4050 GPU, 16h battery, lightweight portable build"
+  },
+  {
+    "id": "P0014",
+    "name": "Peak Lite Laptop 652",
+    "category": "laptop",
+    "price": 1072.88,
+    "rating": 4.7,
+    "review_count": 1659,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "weight_kg": 1.12,
+      "battery_hours": 20,
+      "gpu": "RTX 4070",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 8GB RAM, 512GB SSD, RTX 4070 GPU, 20h battery, lightweight portable build"
+  },
+  {
+    "id": "P0015",
+    "name": "Norde Pro Laptop 702",
+    "category": "laptop",
+    "price": 734.36,
+    "rating": 3.4,
+    "review_count": 4549,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "weight_kg": 2.59,
+      "battery_hours": 16,
+      "gpu": "RTX 4060",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 16GB RAM, 1024GB SSD, RTX 4060 GPU, 16h battery"
+  },
+  {
+    "id": "P0016",
+    "name": "Aurel Flex Laptop 343",
+    "category": "laptop",
+    "price": 2577.74,
+    "rating": 4.6,
+    "review_count": 2293,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 0.91,
+      "battery_hours": 6,
+      "gpu": "integrated",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 16GB RAM, 512GB SSD, integrated GPU, 6h battery, lightweight portable build"
+  },
+  {
+    "id": "P0017",
+    "name": "Aurel Prime Laptop 462",
+    "category": "laptop",
+    "price": 2347.62,
+    "rating": 3.4,
+    "review_count": 3481,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "weight_kg": 1.82,
+      "battery_hours": 20,
+      "gpu": "integrated",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 32GB RAM, 512GB SSD, integrated GPU, 20h battery"
+  },
+  {
+    "id": "P0018",
+    "name": "Aurel Lite Laptop 296",
+    "category": "laptop",
+    "price": 1396.16,
+    "rating": 3.6,
+    "review_count": 1570,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "weight_kg": 2.37,
+      "battery_hours": 6,
+      "gpu": "integrated",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 32GB RAM, 1024GB SSD, integrated GPU, 6h battery"
+  },
+  {
+    "id": "P0019",
+    "name": "Astra Air Laptop 151",
+    "category": "laptop",
+    "price": 2505.04,
+    "rating": 3.1,
+    "review_count": 4440,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "weight_kg": 1.62,
+      "battery_hours": 13,
+      "gpu": "RTX 4060",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 32GB RAM, 512GB SSD, RTX 4060 GPU, 13h battery"
+  },
+  {
+    "id": "P0020",
+    "name": "Peak Pro Laptop 268",
+    "category": "laptop",
+    "price": 1591.26,
+    "rating": 3.4,
+    "review_count": 3116,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "weight_kg": 2.47,
+      "battery_hours": 12,
+      "gpu": "integrated",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 8GB RAM, 256GB SSD, integrated GPU, 12h battery"
+  },
+  {
+    "id": "P0021",
+    "name": "Astra Core Laptop 258",
+    "category": "laptop",
+    "price": 2086.99,
+    "rating": 4.4,
+    "review_count": 1567,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 1024,
+      "weight_kg": 1.35,
+      "battery_hours": 19,
+      "gpu": "RTX 4050",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 8GB RAM, 1024GB SSD, RTX 4050 GPU, 19h battery, lightweight portable build"
+  },
+  {
+    "id": "P0022",
+    "name": "Astra Max Laptop 158",
+    "category": "laptop",
+    "price": 567.83,
+    "rating": 3.9,
+    "review_count": 4172,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 2.55,
+      "battery_hours": 6,
+      "gpu": "RTX 4050",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 16GB RAM, 512GB SSD, RTX 4050 GPU, 6h battery"
+  },
+  {
+    "id": "P0023",
+    "name": "Kirei One Laptop 708",
+    "category": "laptop",
+    "price": 731.73,
+    "rating": 4.7,
+    "review_count": 337,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "weight_kg": 1.02,
+      "battery_hours": 7,
+      "gpu": "integrated",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 8GB RAM, 512GB SSD, integrated GPU, 7h battery, lightweight portable build"
+  },
+  {
+    "id": "P0024",
+    "name": "Bolt Prime Laptop 234",
+    "category": "laptop",
+    "price": 2023.86,
+    "rating": 3.6,
+    "review_count": 2469,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 1024,
+      "weight_kg": 2.02,
+      "battery_hours": 15,
+      "gpu": "RTX 4050",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 8GB RAM, 1024GB SSD, RTX 4050 GPU, 15h battery"
+  },
+  {
+    "id": "P0025",
+    "name": "Aurel Air Laptop 650",
+    "category": "laptop",
+    "price": 1909.72,
+    "rating": 4.1,
+    "review_count": 1758,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "weight_kg": 2.48,
+      "battery_hours": 7,
+      "gpu": "integrated",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 32GB RAM, 512GB SSD, integrated GPU, 7h battery"
+  },
+  {
+    "id": "P0026",
+    "name": "Astra Ultra Laptop 726",
+    "category": "laptop",
+    "price": 1119.72,
+    "rating": 3.8,
+    "review_count": 4345,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 2.49,
+      "battery_hours": 7,
+      "gpu": "integrated",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 16GB RAM, 512GB SSD, integrated GPU, 7h battery"
+  },
+  {
+    "id": "P0027",
+    "name": "Astra Max Laptop 378",
+    "category": "laptop",
+    "price": 721.26,
+    "rating": 3.2,
+    "review_count": 2320,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "weight_kg": 2.48,
+      "battery_hours": 8,
+      "gpu": "integrated",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 8GB RAM, 512GB SSD, integrated GPU, 8h battery"
+  },
+  {
+    "id": "P0028",
+    "name": "Nexon Air Laptop 749",
+    "category": "laptop",
+    "price": 1040.13,
+    "rating": 4.7,
+    "review_count": 3481,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 1.25,
+      "battery_hours": 13,
+      "gpu": "RTX 4070",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 16GB RAM, 512GB SSD, RTX 4070 GPU, 13h battery, lightweight portable build"
+  },
+  {
+    "id": "P0029",
+    "name": "Peak Flex Laptop 109",
+    "category": "laptop",
+    "price": 2191.89,
+    "rating": 4.0,
+    "review_count": 928,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "weight_kg": 0.91,
+      "battery_hours": 9,
+      "gpu": "RTX 4050",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 16GB RAM, 256GB SSD, RTX 4050 GPU, 9h battery, lightweight portable build"
+  },
+  {
+    "id": "P0030",
+    "name": "Norde Pro Laptop 466",
+    "category": "laptop",
+    "price": 1460.0,
+    "rating": 3.1,
+    "review_count": 1732,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "weight_kg": 1.83,
+      "battery_hours": 16,
+      "gpu": "RTX 4070",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 8GB RAM, 512GB SSD, RTX 4070 GPU, 16h battery"
+  },
+  {
+    "id": "P0031",
+    "name": "Vanta Max Laptop 522",
+    "category": "laptop",
+    "price": 2625.54,
+    "rating": 3.4,
+    "review_count": 215,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "weight_kg": 1.5,
+      "battery_hours": 18,
+      "gpu": "RTX 4070",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 16GB RAM, 256GB SSD, RTX 4070 GPU, 18h battery"
+  },
+  {
+    "id": "P0032",
+    "name": "Peak Pro Laptop 979",
+    "category": "laptop",
+    "price": 824.11,
+    "rating": 4.3,
+    "review_count": 3867,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 2.23,
+      "battery_hours": 18,
+      "gpu": "integrated",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 16GB RAM, 512GB SSD, integrated GPU, 18h battery"
+  },
+  {
+    "id": "P0033",
+    "name": "Kirei Pro Laptop 775",
+    "category": "laptop",
+    "price": 2378.26,
+    "rating": 4.7,
+    "review_count": 1594,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 2.29,
+      "battery_hours": 19,
+      "gpu": "RTX 4050",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 16GB RAM, 512GB SSD, RTX 4050 GPU, 19h battery"
+  },
+  {
+    "id": "P0034",
+    "name": "Astra Edge Laptop 128",
+    "category": "laptop",
+    "price": 1957.48,
+    "rating": 3.8,
+    "review_count": 956,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "weight_kg": 1.37,
+      "battery_hours": 7,
+      "gpu": "RTX 4050",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 32GB RAM, 512GB SSD, RTX 4050 GPU, 7h battery, lightweight portable build"
+  },
+  {
+    "id": "P0035",
+    "name": "Norde Prime Laptop 720",
+    "category": "laptop",
+    "price": 1851.94,
+    "rating": 3.7,
+    "review_count": 4201,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 1.89,
+      "battery_hours": 13,
+      "gpu": "integrated",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 16GB RAM, 512GB SSD, integrated GPU, 13h battery"
+  },
+  {
+    "id": "P0036",
+    "name": "Astra Lite Laptop 472",
+    "category": "laptop",
+    "price": 2115.65,
+    "rating": 3.0,
+    "review_count": 3545,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 1024,
+      "weight_kg": 2.43,
+      "battery_hours": 11,
+      "gpu": "RTX 4050",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 8GB RAM, 1024GB SSD, RTX 4050 GPU, 11h battery"
+  },
+  {
+    "id": "P0037",
+    "name": "Bolt Flex Laptop 230",
+    "category": "laptop",
+    "price": 2017.2,
+    "rating": 3.6,
+    "review_count": 1583,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "weight_kg": 1.96,
+      "battery_hours": 8,
+      "gpu": "RTX 4050",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 8GB RAM, 512GB SSD, RTX 4050 GPU, 8h battery"
+  },
+  {
+    "id": "P0038",
+    "name": "Bolt Ultra Laptop 315",
+    "category": "laptop",
+    "price": 1404.28,
+    "rating": 4.6,
+    "review_count": 3533,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "weight_kg": 2.05,
+      "battery_hours": 10,
+      "gpu": "RTX 4070",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 32GB RAM, 1024GB SSD, RTX 4070 GPU, 10h battery"
+  },
+  {
+    "id": "P0039",
+    "name": "Vanta Air Laptop 390",
+    "category": "laptop",
+    "price": 2315.28,
+    "rating": 4.8,
+    "review_count": 4234,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "weight_kg": 1.65,
+      "battery_hours": 11,
+      "gpu": "RTX 4070",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 16GB RAM, 1024GB SSD, RTX 4070 GPU, 11h battery"
+  },
+  {
+    "id": "P0040",
+    "name": "Nexon Lite Laptop 586",
+    "category": "laptop",
+    "price": 2345.42,
+    "rating": 3.3,
+    "review_count": 608,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "weight_kg": 2.29,
+      "battery_hours": 12,
+      "gpu": "RTX 4050",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 16GB RAM, 256GB SSD, RTX 4050 GPU, 12h battery"
+  },
+  {
+    "id": "P0041",
+    "name": "Nexon Air Laptop 897",
+    "category": "laptop",
+    "price": 1389.18,
+    "rating": 3.3,
+    "review_count": 3494,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "weight_kg": 2.41,
+      "battery_hours": 11,
+      "gpu": "RTX 4060",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 32GB RAM, 1024GB SSD, RTX 4060 GPU, 11h battery"
+  },
+  {
+    "id": "P0042",
+    "name": "Vanta Core Laptop 783",
+    "category": "laptop",
+    "price": 2606.05,
+    "rating": 3.2,
+    "review_count": 4363,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 2.27,
+      "battery_hours": 19,
+      "gpu": "integrated",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 16GB RAM, 512GB SSD, integrated GPU, 19h battery"
+  },
+  {
+    "id": "P0043",
+    "name": "Lumo Core Laptop 365",
+    "category": "laptop",
+    "price": 2558.44,
+    "rating": 4.4,
+    "review_count": 2037,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "weight_kg": 1.94,
+      "battery_hours": 18,
+      "gpu": "RTX 4070",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 16GB RAM, 1024GB SSD, RTX 4070 GPU, 18h battery"
+  },
+  {
+    "id": "P0044",
+    "name": "Norde Edge Laptop 653",
+    "category": "laptop",
+    "price": 2126.83,
+    "rating": 3.4,
+    "review_count": 672,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "weight_kg": 1.97,
+      "battery_hours": 13,
+      "gpu": "RTX 4060",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 16GB RAM, 1024GB SSD, RTX 4060 GPU, 13h battery"
+  },
+  {
+    "id": "P0045",
+    "name": "Lumo Prime Laptop 163",
+    "category": "laptop",
+    "price": 1424.94,
+    "rating": 3.6,
+    "review_count": 1706,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 1.29,
+      "battery_hours": 9,
+      "gpu": "integrated",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 16GB RAM, 512GB SSD, integrated GPU, 9h battery, lightweight portable build"
+  },
+  {
+    "id": "P0046",
+    "name": "Bolt Prime Laptop 973",
+    "category": "laptop",
+    "price": 1570.9,
+    "rating": 4.8,
+    "review_count": 3444,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "weight_kg": 2.44,
+      "battery_hours": 5,
+      "gpu": "RTX 4070",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 32GB RAM, 1024GB SSD, RTX 4070 GPU, 5h battery"
+  },
+  {
+    "id": "P0047",
+    "name": "Peak Max Laptop 960",
+    "category": "laptop",
+    "price": 1363.81,
+    "rating": 4.3,
+    "review_count": 3840,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "weight_kg": 1.27,
+      "battery_hours": 18,
+      "gpu": "RTX 4060",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 16GB RAM, 1024GB SSD, RTX 4060 GPU, 18h battery, lightweight portable build"
+  },
+  {
+    "id": "P0048",
+    "name": "Nexon Ultra Laptop 488",
+    "category": "laptop",
+    "price": 768.89,
+    "rating": 3.9,
+    "review_count": 2693,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "weight_kg": 2.44,
+      "battery_hours": 5,
+      "gpu": "integrated",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 16GB RAM, 256GB SSD, integrated GPU, 5h battery"
+  },
+  {
+    "id": "P0049",
+    "name": "Nexon Flex Laptop 153",
+    "category": "laptop",
+    "price": 1042.84,
+    "rating": 3.2,
+    "review_count": 2878,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "weight_kg": 1.46,
+      "battery_hours": 17,
+      "gpu": "RTX 4050",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 16GB RAM, 1024GB SSD, RTX 4050 GPU, 17h battery"
+  },
+  {
+    "id": "P0050",
+    "name": "Vanta Lite Laptop 229",
+    "category": "laptop",
+    "price": 918.5,
+    "rating": 3.0,
+    "review_count": 3891,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "weight_kg": 2.23,
+      "battery_hours": 6,
+      "gpu": "integrated",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 16GB RAM, 256GB SSD, integrated GPU, 6h battery"
+  },
+  {
+    "id": "P0051",
+    "name": "Aurel Max Laptop 418",
+    "category": "laptop",
+    "price": 1873.85,
+    "rating": 4.8,
+    "review_count": 897,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "weight_kg": 1.69,
+      "battery_hours": 13,
+      "gpu": "RTX 4050",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 8GB RAM, 512GB SSD, RTX 4050 GPU, 13h battery"
+  },
+  {
+    "id": "P0052",
+    "name": "Kirei Air Laptop 813",
+    "category": "laptop",
+    "price": 628.59,
+    "rating": 4.3,
+    "review_count": 2482,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "weight_kg": 1.88,
+      "battery_hours": 17,
+      "gpu": "RTX 4060",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 8GB RAM, 512GB SSD, RTX 4060 GPU, 17h battery"
+  },
+  {
+    "id": "P0053",
+    "name": "Peak Core Laptop 208",
+    "category": "laptop",
+    "price": 1639.01,
+    "rating": 3.6,
+    "review_count": 3563,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "weight_kg": 1.49,
+      "battery_hours": 18,
+      "gpu": "RTX 4050",
+      "screen_inches": 13.3
+    },
+    "description": "13.3\" laptop with 8GB RAM, 256GB SSD, RTX 4050 GPU, 18h battery"
+  },
+  {
+    "id": "P0054",
+    "name": "Lumo Core Laptop 546",
+    "category": "laptop",
+    "price": 1897.39,
+    "rating": 4.7,
+    "review_count": 2210,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "weight_kg": 2.1,
+      "battery_hours": 18,
+      "gpu": "integrated",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 16GB RAM, 1024GB SSD, integrated GPU, 18h battery"
+  },
+  {
+    "id": "P0055",
+    "name": "Crest Prime Laptop 444",
+    "category": "laptop",
+    "price": 1023.08,
+    "rating": 3.9,
+    "review_count": 247,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 2.31,
+      "battery_hours": 7,
+      "gpu": "RTX 4050",
+      "screen_inches": 16
+    },
+    "description": "16\" laptop with 16GB RAM, 512GB SSD, RTX 4050 GPU, 7h battery"
+  },
+  {
+    "id": "P0056",
+    "name": "Bolt Flex Laptop 110",
+    "category": "laptop",
+    "price": 1249.8,
+    "rating": 4.7,
+    "review_count": 4244,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "weight_kg": 1.21,
+      "battery_hours": 11,
+      "gpu": "RTX 4050",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 32GB RAM, 512GB SSD, RTX 4050 GPU, 11h battery, lightweight portable build"
+  },
+  {
+    "id": "P0057",
+    "name": "Lumo Core Laptop 911",
+    "category": "laptop",
+    "price": 2072.93,
+    "rating": 4.2,
+    "review_count": 153,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "weight_kg": 1.31,
+      "battery_hours": 18,
+      "gpu": "RTX 4060",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 16GB RAM, 256GB SSD, RTX 4060 GPU, 18h battery, lightweight portable build"
+  },
+  {
+    "id": "P0058",
+    "name": "Peak Flex Laptop 438",
+    "category": "laptop",
+    "price": 1562.16,
+    "rating": 4.0,
+    "review_count": 2894,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "weight_kg": 1.28,
+      "battery_hours": 12,
+      "gpu": "RTX 4050",
+      "screen_inches": 15.6
+    },
+    "description": "15.6\" laptop with 8GB RAM, 512GB SSD, RTX 4050 GPU, 12h battery, lightweight portable build"
+  },
+  {
+    "id": "P0059",
+    "name": "Vanta Lite Laptop 321",
+    "category": "laptop",
+    "price": 1191.54,
+    "rating": 4.4,
+    "review_count": 3978,
+    "attributes": {
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "weight_kg": 1.42,
+      "battery_hours": 12,
+      "gpu": "integrated",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 32GB RAM, 512GB SSD, integrated GPU, 12h battery"
+  },
+  {
+    "id": "P0060",
+    "name": "Astra Max Laptop 380",
+    "category": "laptop",
+    "price": 1298.07,
+    "rating": 3.6,
+    "review_count": 384,
+    "attributes": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "weight_kg": 2.57,
+      "battery_hours": 11,
+      "gpu": "RTX 4050",
+      "screen_inches": 14
+    },
+    "description": "14\" laptop with 16GB RAM, 512GB SSD, RTX 4050 GPU, 11h battery"
+  },
+  {
+    "id": "P0061",
+    "name": "Aurel Pro Headphones 687",
+    "category": "headphones",
+    "price": 361.69,
+    "rating": 4.4,
+    "review_count": 2341,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 52,
+      "weight_g": 212
+    },
+    "description": "wireless headphones with 52h battery"
+  },
+  {
+    "id": "P0062",
+    "name": "Lumo Air Headphones 941",
+    "category": "headphones",
+    "price": 125.87,
+    "rating": 3.1,
+    "review_count": 547,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 36,
+      "weight_g": 267
+    },
+    "description": "wireless headphones with 36h battery"
+  },
+  {
+    "id": "P0063",
+    "name": "Vanta One Headphones 411",
+    "category": "headphones",
+    "price": 357.31,
+    "rating": 3.1,
+    "review_count": 709,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 12,
+      "weight_g": 327
+    },
+    "description": "wireless headphones with 12h battery"
+  },
+  {
+    "id": "P0064",
+    "name": "Crest Lite Headphones 894",
+    "category": "headphones",
+    "price": 246.41,
+    "rating": 4.1,
+    "review_count": 4292,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 43,
+      "weight_g": 375
+    },
+    "description": "wireless noise cancelling ANC headphones with 43h battery"
+  },
+  {
+    "id": "P0065",
+    "name": "Bolt One Headphones 735",
+    "category": "headphones",
+    "price": 477.29,
+    "rating": 4.9,
+    "review_count": 505,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 36,
+      "weight_g": 256
+    },
+    "description": "wireless headphones with 36h battery"
+  },
+  {
+    "id": "P0066",
+    "name": "Aurel Max Headphones 345",
+    "category": "headphones",
+    "price": 355.27,
+    "rating": 3.5,
+    "review_count": 1435,
+    "attributes": {
+      "wireless": false,
+      "noise_cancelling": true,
+      "battery_hours": 56,
+      "weight_g": 233
+    },
+    "description": "wired noise cancelling ANC headphones with 56h battery"
+  },
+  {
+    "id": "P0067",
+    "name": "Lumo Ultra Headphones 133",
+    "category": "headphones",
+    "price": 242.43,
+    "rating": 4.3,
+    "review_count": 1908,
+    "attributes": {
+      "wireless": false,
+      "noise_cancelling": true,
+      "battery_hours": 18,
+      "weight_g": 180
+    },
+    "description": "wired noise cancelling ANC headphones with 18h battery"
+  },
+  {
+    "id": "P0068",
+    "name": "Bolt One Headphones 777",
+    "category": "headphones",
+    "price": 266.1,
+    "rating": 4.3,
+    "review_count": 1632,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 52,
+      "weight_g": 400
+    },
+    "description": "wireless headphones with 52h battery"
+  },
+  {
+    "id": "P0069",
+    "name": "Vanta Air Headphones 161",
+    "category": "headphones",
+    "price": 366.77,
+    "rating": 4.7,
+    "review_count": 1371,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 42,
+      "weight_g": 237
+    },
+    "description": "wireless noise cancelling ANC headphones with 42h battery"
+  },
+  {
+    "id": "P0070",
+    "name": "Peak Ultra Headphones 612",
+    "category": "headphones",
+    "price": 273.72,
+    "rating": 3.6,
+    "review_count": 4435,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 36,
+      "weight_g": 211
+    },
+    "description": "wireless headphones with 36h battery"
+  },
+  {
+    "id": "P0071",
+    "name": "Norde One Headphones 356",
+    "category": "headphones",
+    "price": 50.73,
+    "rating": 3.8,
+    "review_count": 223,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 13,
+      "weight_g": 333
+    },
+    "description": "wireless headphones with 13h battery"
+  },
+  {
+    "id": "P0072",
+    "name": "Nexon Ultra Headphones 690",
+    "category": "headphones",
+    "price": 477.47,
+    "rating": 4.1,
+    "review_count": 341,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 51,
+      "weight_g": 394
+    },
+    "description": "wireless noise cancelling ANC headphones with 51h battery"
+  },
+  {
+    "id": "P0073",
+    "name": "Crest Prime Headphones 750",
+    "category": "headphones",
+    "price": 259.96,
+    "rating": 3.5,
+    "review_count": 4040,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 41,
+      "weight_g": 346
+    },
+    "description": "wireless headphones with 41h battery"
+  },
+  {
+    "id": "P0074",
+    "name": "Vanta Edge Headphones 521",
+    "category": "headphones",
+    "price": 203.32,
+    "rating": 4.3,
+    "review_count": 4070,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 30,
+      "weight_g": 284
+    },
+    "description": "wireless headphones with 30h battery"
+  },
+  {
+    "id": "P0075",
+    "name": "Norde Ultra Headphones 431",
+    "category": "headphones",
+    "price": 316.05,
+    "rating": 3.9,
+    "review_count": 961,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 60,
+      "weight_g": 374
+    },
+    "description": "wireless headphones with 60h battery"
+  },
+  {
+    "id": "P0076",
+    "name": "Astra Edge Headphones 737",
+    "category": "headphones",
+    "price": 270.23,
+    "rating": 3.1,
+    "review_count": 4095,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 50,
+      "weight_g": 318
+    },
+    "description": "wireless noise cancelling ANC headphones with 50h battery"
+  },
+  {
+    "id": "P0077",
+    "name": "Bolt Core Headphones 815",
+    "category": "headphones",
+    "price": 135.85,
+    "rating": 4.0,
+    "review_count": 3982,
+    "attributes": {
+      "wireless": false,
+      "noise_cancelling": false,
+      "battery_hours": 56,
+      "weight_g": 193
+    },
+    "description": "wired headphones with 56h battery"
+  },
+  {
+    "id": "P0078",
+    "name": "Bolt Flex Headphones 114",
+    "category": "headphones",
+    "price": 445.64,
+    "rating": 4.3,
+    "review_count": 4536,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 48,
+      "weight_g": 335
+    },
+    "description": "wireless noise cancelling ANC headphones with 48h battery"
+  },
+  {
+    "id": "P0079",
+    "name": "Aurel Max Headphones 610",
+    "category": "headphones",
+    "price": 504.72,
+    "rating": 3.9,
+    "review_count": 2402,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 22,
+      "weight_g": 395
+    },
+    "description": "wireless noise cancelling ANC headphones with 22h battery"
+  },
+  {
+    "id": "P0080",
+    "name": "Lumo Flex Headphones 248",
+    "category": "headphones",
+    "price": 280.9,
+    "rating": 3.9,
+    "review_count": 3154,
+    "attributes": {
+      "wireless": false,
+      "noise_cancelling": false,
+      "battery_hours": 34,
+      "weight_g": 393
+    },
+    "description": "wired headphones with 34h battery"
+  },
+  {
+    "id": "P0081",
+    "name": "Norde Flex Headphones 373",
+    "category": "headphones",
+    "price": 431.79,
+    "rating": 4.6,
+    "review_count": 33,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 12,
+      "weight_g": 250
+    },
+    "description": "wireless noise cancelling ANC headphones with 12h battery"
+  },
+  {
+    "id": "P0082",
+    "name": "Vanta Core Headphones 651",
+    "category": "headphones",
+    "price": 549.43,
+    "rating": 3.9,
+    "review_count": 3979,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 45,
+      "weight_g": 328
+    },
+    "description": "wireless headphones with 45h battery"
+  },
+  {
+    "id": "P0083",
+    "name": "Norde Lite Headphones 814",
+    "category": "headphones",
+    "price": 312.58,
+    "rating": 3.9,
+    "review_count": 1968,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 43,
+      "weight_g": 375
+    },
+    "description": "wireless headphones with 43h battery"
+  },
+  {
+    "id": "P0084",
+    "name": "Lumo Prime Headphones 495",
+    "category": "headphones",
+    "price": 433.28,
+    "rating": 3.1,
+    "review_count": 1258,
+    "attributes": {
+      "wireless": false,
+      "noise_cancelling": false,
+      "battery_hours": 22,
+      "weight_g": 399
+    },
+    "description": "wired headphones with 22h battery"
+  },
+  {
+    "id": "P0085",
+    "name": "Aurel Core Headphones 202",
+    "category": "headphones",
+    "price": 531.98,
+    "rating": 3.6,
+    "review_count": 4320,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 16,
+      "weight_g": 308
+    },
+    "description": "wireless noise cancelling ANC headphones with 16h battery"
+  },
+  {
+    "id": "P0086",
+    "name": "Vanta Air Headphones 580",
+    "category": "headphones",
+    "price": 243.19,
+    "rating": 4.2,
+    "review_count": 2183,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 54,
+      "weight_g": 216
+    },
+    "description": "wireless noise cancelling ANC headphones with 54h battery"
+  },
+  {
+    "id": "P0087",
+    "name": "Astra Prime Headphones 424",
+    "category": "headphones",
+    "price": 472.92,
+    "rating": 4.6,
+    "review_count": 4009,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 49,
+      "weight_g": 200
+    },
+    "description": "wireless headphones with 49h battery"
+  },
+  {
+    "id": "P0088",
+    "name": "Bolt Lite Headphones 864",
+    "category": "headphones",
+    "price": 152.08,
+    "rating": 4.3,
+    "review_count": 752,
+    "attributes": {
+      "wireless": false,
+      "noise_cancelling": true,
+      "battery_hours": 47,
+      "weight_g": 197
+    },
+    "description": "wired noise cancelling ANC headphones with 47h battery"
+  },
+  {
+    "id": "P0089",
+    "name": "Vanta Ultra Headphones 129",
+    "category": "headphones",
+    "price": 396.02,
+    "rating": 3.2,
+    "review_count": 388,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 56,
+      "weight_g": 342
+    },
+    "description": "wireless noise cancelling ANC headphones with 56h battery"
+  },
+  {
+    "id": "P0090",
+    "name": "Astra Prime Headphones 679",
+    "category": "headphones",
+    "price": 224.92,
+    "rating": 3.3,
+    "review_count": 1487,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 26,
+      "weight_g": 271
+    },
+    "description": "wireless noise cancelling ANC headphones with 26h battery"
+  },
+  {
+    "id": "P0091",
+    "name": "Kirei Core Headphones 697",
+    "category": "headphones",
+    "price": 482.84,
+    "rating": 4.2,
+    "review_count": 1184,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 13,
+      "weight_g": 336
+    },
+    "description": "wireless noise cancelling ANC headphones with 13h battery"
+  },
+  {
+    "id": "P0092",
+    "name": "Lumo Ultra Headphones 793",
+    "category": "headphones",
+    "price": 268.98,
+    "rating": 4.3,
+    "review_count": 4489,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 48,
+      "weight_g": 245
+    },
+    "description": "wireless headphones with 48h battery"
+  },
+  {
+    "id": "P0093",
+    "name": "Peak Ultra Headphones 567",
+    "category": "headphones",
+    "price": 543.58,
+    "rating": 3.6,
+    "review_count": 2486,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 36,
+      "weight_g": 268
+    },
+    "description": "wireless noise cancelling ANC headphones with 36h battery"
+  },
+  {
+    "id": "P0094",
+    "name": "Crest Ultra Headphones 816",
+    "category": "headphones",
+    "price": 153.35,
+    "rating": 4.1,
+    "review_count": 2430,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 38,
+      "weight_g": 207
+    },
+    "description": "wireless headphones with 38h battery"
+  },
+  {
+    "id": "P0095",
+    "name": "Nexon One Headphones 863",
+    "category": "headphones",
+    "price": 324.28,
+    "rating": 4.3,
+    "review_count": 4081,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 25,
+      "weight_g": 182
+    },
+    "description": "wireless headphones with 25h battery"
+  },
+  {
+    "id": "P0096",
+    "name": "Crest Ultra Headphones 794",
+    "category": "headphones",
+    "price": 213.21,
+    "rating": 4.2,
+    "review_count": 1132,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 46,
+      "weight_g": 385
+    },
+    "description": "wireless noise cancelling ANC headphones with 46h battery"
+  },
+  {
+    "id": "P0097",
+    "name": "Nexon One Headphones 473",
+    "category": "headphones",
+    "price": 50.5,
+    "rating": 4.5,
+    "review_count": 1088,
+    "attributes": {
+      "wireless": false,
+      "noise_cancelling": true,
+      "battery_hours": 48,
+      "weight_g": 345
+    },
+    "description": "wired noise cancelling ANC headphones with 48h battery"
+  },
+  {
+    "id": "P0098",
+    "name": "Astra Edge Headphones 643",
+    "category": "headphones",
+    "price": 246.06,
+    "rating": 3.4,
+    "review_count": 4122,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 28,
+      "weight_g": 371
+    },
+    "description": "wireless headphones with 28h battery"
+  },
+  {
+    "id": "P0099",
+    "name": "Bolt Edge Headphones 923",
+    "category": "headphones",
+    "price": 520.98,
+    "rating": 4.8,
+    "review_count": 955,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 24,
+      "weight_g": 391
+    },
+    "description": "wireless noise cancelling ANC headphones with 24h battery"
+  },
+  {
+    "id": "P0100",
+    "name": "Peak Flex Headphones 474",
+    "category": "headphones",
+    "price": 532.58,
+    "rating": 4.6,
+    "review_count": 751,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 17,
+      "weight_g": 373
+    },
+    "description": "wireless noise cancelling ANC headphones with 17h battery"
+  },
+  {
+    "id": "P0101",
+    "name": "Bolt One Headphones 490",
+    "category": "headphones",
+    "price": 94.27,
+    "rating": 3.7,
+    "review_count": 3055,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 24,
+      "weight_g": 317
+    },
+    "description": "wireless noise cancelling ANC headphones with 24h battery"
+  },
+  {
+    "id": "P0102",
+    "name": "Norde One Headphones 326",
+    "category": "headphones",
+    "price": 352.16,
+    "rating": 4.8,
+    "review_count": 529,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 38,
+      "weight_g": 186
+    },
+    "description": "wireless noise cancelling ANC headphones with 38h battery"
+  },
+  {
+    "id": "P0103",
+    "name": "Nexon Pro Headphones 411",
+    "category": "headphones",
+    "price": 367.6,
+    "rating": 3.2,
+    "review_count": 4047,
+    "attributes": {
+      "wireless": false,
+      "noise_cancelling": false,
+      "battery_hours": 52,
+      "weight_g": 257
+    },
+    "description": "wired headphones with 52h battery"
+  },
+  {
+    "id": "P0104",
+    "name": "Astra Prime Headphones 701",
+    "category": "headphones",
+    "price": 100.55,
+    "rating": 3.9,
+    "review_count": 1277,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 23,
+      "weight_g": 317
+    },
+    "description": "wireless noise cancelling ANC headphones with 23h battery"
+  },
+  {
+    "id": "P0105",
+    "name": "Nexon Edge Headphones 322",
+    "category": "headphones",
+    "price": 242.22,
+    "rating": 4.8,
+    "review_count": 3644,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 39,
+      "weight_g": 337
+    },
+    "description": "wireless noise cancelling ANC headphones with 39h battery"
+  },
+  {
+    "id": "P0106",
+    "name": "Norde Pro Headphones 507",
+    "category": "headphones",
+    "price": 540.08,
+    "rating": 3.7,
+    "review_count": 2272,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 31,
+      "weight_g": 205
+    },
+    "description": "wireless noise cancelling ANC headphones with 31h battery"
+  },
+  {
+    "id": "P0107",
+    "name": "Crest Pro Headphones 151",
+    "category": "headphones",
+    "price": 77.67,
+    "rating": 3.4,
+    "review_count": 2744,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 60,
+      "weight_g": 296
+    },
+    "description": "wireless noise cancelling ANC headphones with 60h battery"
+  },
+  {
+    "id": "P0108",
+    "name": "Astra Lite Headphones 700",
+    "category": "headphones",
+    "price": 136.71,
+    "rating": 4.6,
+    "review_count": 1781,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 58,
+      "weight_g": 324
+    },
+    "description": "wireless noise cancelling ANC headphones with 58h battery"
+  },
+  {
+    "id": "P0109",
+    "name": "Bolt Max Headphones 233",
+    "category": "headphones",
+    "price": 440.09,
+    "rating": 4.1,
+    "review_count": 4437,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 57,
+      "weight_g": 217
+    },
+    "description": "wireless headphones with 57h battery"
+  },
+  {
+    "id": "P0110",
+    "name": "Norde Lite Headphones 702",
+    "category": "headphones",
+    "price": 480.55,
+    "rating": 3.3,
+    "review_count": 2664,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 15,
+      "weight_g": 349
+    },
+    "description": "wireless noise cancelling ANC headphones with 15h battery"
+  },
+  {
+    "id": "P0111",
+    "name": "Aurel Air Headphones 587",
+    "category": "headphones",
+    "price": 95.91,
+    "rating": 3.8,
+    "review_count": 3684,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 24,
+      "weight_g": 193
+    },
+    "description": "wireless noise cancelling ANC headphones with 24h battery"
+  },
+  {
+    "id": "P0112",
+    "name": "Astra Ultra Headphones 569",
+    "category": "headphones",
+    "price": 145.21,
+    "rating": 4.2,
+    "review_count": 267,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 36,
+      "weight_g": 308
+    },
+    "description": "wireless noise cancelling ANC headphones with 36h battery"
+  },
+  {
+    "id": "P0113",
+    "name": "Lumo Air Headphones 182",
+    "category": "headphones",
+    "price": 386.77,
+    "rating": 3.9,
+    "review_count": 2650,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 33,
+      "weight_g": 289
+    },
+    "description": "wireless headphones with 33h battery"
+  },
+  {
+    "id": "P0114",
+    "name": "Astra Edge Headphones 490",
+    "category": "headphones",
+    "price": 173.01,
+    "rating": 4.2,
+    "review_count": 4358,
+    "attributes": {
+      "wireless": false,
+      "noise_cancelling": true,
+      "battery_hours": 12,
+      "weight_g": 212
+    },
+    "description": "wired noise cancelling ANC headphones with 12h battery"
+  },
+  {
+    "id": "P0115",
+    "name": "Aurel Flex Headphones 838",
+    "category": "headphones",
+    "price": 253.7,
+    "rating": 4.5,
+    "review_count": 1773,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 40,
+      "weight_g": 334
+    },
+    "description": "wireless headphones with 40h battery"
+  },
+  {
+    "id": "P0116",
+    "name": "Peak Air Headphones 420",
+    "category": "headphones",
+    "price": 206.24,
+    "rating": 3.9,
+    "review_count": 3508,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 22,
+      "weight_g": 285
+    },
+    "description": "wireless headphones with 22h battery"
+  },
+  {
+    "id": "P0117",
+    "name": "Aurel Air Headphones 195",
+    "category": "headphones",
+    "price": 387.15,
+    "rating": 3.9,
+    "review_count": 3549,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 31,
+      "weight_g": 219
+    },
+    "description": "wireless headphones with 31h battery"
+  },
+  {
+    "id": "P0118",
+    "name": "Astra Flex Headphones 437",
+    "category": "headphones",
+    "price": 319.31,
+    "rating": 4.1,
+    "review_count": 1013,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 59,
+      "weight_g": 213
+    },
+    "description": "wireless headphones with 59h battery"
+  },
+  {
+    "id": "P0119",
+    "name": "Nexon Ultra Headphones 714",
+    "category": "headphones",
+    "price": 249.93,
+    "rating": 4.7,
+    "review_count": 2571,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": false,
+      "battery_hours": 50,
+      "weight_g": 372
+    },
+    "description": "wireless headphones with 50h battery"
+  },
+  {
+    "id": "P0120",
+    "name": "Kirei Air Headphones 458",
+    "category": "headphones",
+    "price": 140.62,
+    "rating": 4.2,
+    "review_count": 4568,
+    "attributes": {
+      "wireless": true,
+      "noise_cancelling": true,
+      "battery_hours": 44,
+      "weight_g": 309
+    },
+    "description": "wireless noise cancelling ANC headphones with 44h battery"
+  },
+  {
+    "id": "P0121",
+    "name": "Astra One Smartphone 728",
+    "category": "smartphone",
+    "price": 471.39,
+    "rating": 3.8,
+    "review_count": 4572,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "battery_mah": 5361,
+      "camera_mp": 108,
+      "fast_charging": false
+    },
+    "description": "smartphone with 108MP camera, 8GB RAM, 5361mAh battery"
+  },
+  {
+    "id": "P0122",
+    "name": "Bolt Edge Smartphone 459",
+    "category": "smartphone",
+    "price": 416.5,
+    "rating": 4.3,
+    "review_count": 62,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 512,
+      "battery_mah": 5147,
+      "camera_mp": 108,
+      "fast_charging": true
+    },
+    "description": "smartphone with 108MP camera, 6GB RAM, 5147mAh battery, fast charging"
+  },
+  {
+    "id": "P0123",
+    "name": "Nexon Air Smartphone 864",
+    "category": "smartphone",
+    "price": 370.25,
+    "rating": 4.2,
+    "review_count": 4357,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 4959,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 6GB RAM, 4959mAh battery, fast charging"
+  },
+  {
+    "id": "P0124",
+    "name": "Norde One Smartphone 710",
+    "category": "smartphone",
+    "price": 388.89,
+    "rating": 3.6,
+    "review_count": 707,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 256,
+      "battery_mah": 4659,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 6GB RAM, 4659mAh battery, fast charging"
+  },
+  {
+    "id": "P0125",
+    "name": "Peak Core Smartphone 721",
+    "category": "smartphone",
+    "price": 297.9,
+    "rating": 3.8,
+    "review_count": 3633,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 4122,
+      "camera_mp": 48,
+      "fast_charging": false
+    },
+    "description": "smartphone with 48MP camera, 6GB RAM, 4122mAh battery"
+  },
+  {
+    "id": "P0126",
+    "name": "Crest Core Smartphone 639",
+    "category": "smartphone",
+    "price": 715.9,
+    "rating": 3.5,
+    "review_count": 2538,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_mah": 4241,
+      "camera_mp": 48,
+      "fast_charging": true
+    },
+    "description": "smartphone with 48MP camera, 8GB RAM, 4241mAh battery, fast charging"
+  },
+  {
+    "id": "P0127",
+    "name": "Vanta Ultra Smartphone 396",
+    "category": "smartphone",
+    "price": 445.31,
+    "rating": 4.8,
+    "review_count": 2699,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 4609,
+      "camera_mp": 48,
+      "fast_charging": true
+    },
+    "description": "smartphone with 48MP camera, 6GB RAM, 4609mAh battery, fast charging"
+  },
+  {
+    "id": "P0128",
+    "name": "Kirei Flex Smartphone 672",
+    "category": "smartphone",
+    "price": 355.02,
+    "rating": 4.0,
+    "review_count": 2913,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 4818,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 6GB RAM, 4818mAh battery, fast charging"
+  },
+  {
+    "id": "P0129",
+    "name": "Norde One Smartphone 539",
+    "category": "smartphone",
+    "price": 222.49,
+    "rating": 4.8,
+    "review_count": 4709,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 256,
+      "battery_mah": 5319,
+      "camera_mp": 48,
+      "fast_charging": true
+    },
+    "description": "smartphone with 48MP camera, 6GB RAM, 5319mAh battery, fast charging"
+  },
+  {
+    "id": "P0130",
+    "name": "Norde Max Smartphone 920",
+    "category": "smartphone",
+    "price": 338.21,
+    "rating": 3.0,
+    "review_count": 3781,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "battery_mah": 5111,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 8GB RAM, 5111mAh battery, fast charging"
+  },
+  {
+    "id": "P0131",
+    "name": "Astra Air Smartphone 505",
+    "category": "smartphone",
+    "price": 491.98,
+    "rating": 4.1,
+    "review_count": 2553,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "battery_mah": 3980,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 12GB RAM, 3980mAh battery, fast charging"
+  },
+  {
+    "id": "P0132",
+    "name": "Astra Flex Smartphone 298",
+    "category": "smartphone",
+    "price": 291.66,
+    "rating": 4.2,
+    "review_count": 2874,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "battery_mah": 4253,
+      "camera_mp": 108,
+      "fast_charging": true
+    },
+    "description": "smartphone with 108MP camera, 12GB RAM, 4253mAh battery, fast charging"
+  },
+  {
+    "id": "P0133",
+    "name": "Vanta One Smartphone 256",
+    "category": "smartphone",
+    "price": 323.37,
+    "rating": 3.5,
+    "review_count": 629,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "battery_mah": 5477,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 8GB RAM, 5477mAh battery, fast charging"
+  },
+  {
+    "id": "P0134",
+    "name": "Crest One Smartphone 430",
+    "category": "smartphone",
+    "price": 1111.85,
+    "rating": 3.9,
+    "review_count": 2601,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 512,
+      "battery_mah": 4811,
+      "camera_mp": 200,
+      "fast_charging": false
+    },
+    "description": "smartphone with 200MP camera, 6GB RAM, 4811mAh battery"
+  },
+  {
+    "id": "P0135",
+    "name": "Crest Pro Smartphone 460",
+    "category": "smartphone",
+    "price": 957.66,
+    "rating": 4.5,
+    "review_count": 4168,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 256,
+      "battery_mah": 3939,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 6GB RAM, 3939mAh battery, fast charging"
+  },
+  {
+    "id": "P0136",
+    "name": "Aurel Air Smartphone 729",
+    "category": "smartphone",
+    "price": 268.27,
+    "rating": 4.6,
+    "review_count": 4165,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 256,
+      "battery_mah": 4745,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 6GB RAM, 4745mAh battery, fast charging"
+  },
+  {
+    "id": "P0137",
+    "name": "Kirei Edge Smartphone 719",
+    "category": "smartphone",
+    "price": 1290.86,
+    "rating": 4.1,
+    "review_count": 3908,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_mah": 4988,
+      "camera_mp": 48,
+      "fast_charging": true
+    },
+    "description": "smartphone with 48MP camera, 8GB RAM, 4988mAh battery, fast charging"
+  },
+  {
+    "id": "P0138",
+    "name": "Aurel Flex Smartphone 761",
+    "category": "smartphone",
+    "price": 1173.16,
+    "rating": 4.6,
+    "review_count": 1425,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 128,
+      "battery_mah": 3926,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 12GB RAM, 3926mAh battery, fast charging"
+  },
+  {
+    "id": "P0139",
+    "name": "Norde Edge Smartphone 389",
+    "category": "smartphone",
+    "price": 828.88,
+    "rating": 4.2,
+    "review_count": 3185,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 5249,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 6GB RAM, 5249mAh battery, fast charging"
+  },
+  {
+    "id": "P0140",
+    "name": "Aurel Flex Smartphone 794",
+    "category": "smartphone",
+    "price": 976.77,
+    "rating": 3.1,
+    "review_count": 3178,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_mah": 5190,
+      "camera_mp": 48,
+      "fast_charging": false
+    },
+    "description": "smartphone with 48MP camera, 8GB RAM, 5190mAh battery"
+  },
+  {
+    "id": "P0141",
+    "name": "Norde Ultra Smartphone 771",
+    "category": "smartphone",
+    "price": 297.8,
+    "rating": 4.3,
+    "review_count": 3222,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_mah": 5282,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 8GB RAM, 5282mAh battery, fast charging"
+  },
+  {
+    "id": "P0142",
+    "name": "Norde Max Smartphone 786",
+    "category": "smartphone",
+    "price": 870.71,
+    "rating": 4.2,
+    "review_count": 4324,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 512,
+      "battery_mah": 5251,
+      "camera_mp": 48,
+      "fast_charging": true
+    },
+    "description": "smartphone with 48MP camera, 6GB RAM, 5251mAh battery, fast charging"
+  },
+  {
+    "id": "P0143",
+    "name": "Vanta Lite Smartphone 449",
+    "category": "smartphone",
+    "price": 634.19,
+    "rating": 3.7,
+    "review_count": 3995,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 512,
+      "battery_mah": 5173,
+      "camera_mp": 200,
+      "fast_charging": false
+    },
+    "description": "smartphone with 200MP camera, 6GB RAM, 5173mAh battery"
+  },
+  {
+    "id": "P0144",
+    "name": "Astra Flex Smartphone 955",
+    "category": "smartphone",
+    "price": 554.95,
+    "rating": 4.5,
+    "review_count": 4325,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 4081,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 6GB RAM, 4081mAh battery, fast charging"
+  },
+  {
+    "id": "P0145",
+    "name": "Crest Max Smartphone 838",
+    "category": "smartphone",
+    "price": 652.06,
+    "rating": 3.3,
+    "review_count": 3597,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 512,
+      "battery_mah": 4489,
+      "camera_mp": 50,
+      "fast_charging": false
+    },
+    "description": "smartphone with 50MP camera, 6GB RAM, 4489mAh battery"
+  },
+  {
+    "id": "P0146",
+    "name": "Lumo Lite Smartphone 646",
+    "category": "smartphone",
+    "price": 932.71,
+    "rating": 4.4,
+    "review_count": 1971,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 256,
+      "battery_mah": 4546,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 6GB RAM, 4546mAh battery, fast charging"
+  },
+  {
+    "id": "P0147",
+    "name": "Lumo Ultra Smartphone 896",
+    "category": "smartphone",
+    "price": 1336.56,
+    "rating": 4.9,
+    "review_count": 3140,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_mah": 4197,
+      "camera_mp": 108,
+      "fast_charging": false
+    },
+    "description": "smartphone with 108MP camera, 8GB RAM, 4197mAh battery"
+  },
+  {
+    "id": "P0148",
+    "name": "Bolt Pro Smartphone 756",
+    "category": "smartphone",
+    "price": 1161.51,
+    "rating": 3.3,
+    "review_count": 3948,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "battery_mah": 4657,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 12GB RAM, 4657mAh battery, fast charging"
+  },
+  {
+    "id": "P0149",
+    "name": "Lumo Flex Smartphone 250",
+    "category": "smartphone",
+    "price": 300.65,
+    "rating": 3.3,
+    "review_count": 3595,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "battery_mah": 4010,
+      "camera_mp": 48,
+      "fast_charging": true
+    },
+    "description": "smartphone with 48MP camera, 8GB RAM, 4010mAh battery, fast charging"
+  },
+  {
+    "id": "P0150",
+    "name": "Peak Flex Smartphone 482",
+    "category": "smartphone",
+    "price": 1316.57,
+    "rating": 3.8,
+    "review_count": 1943,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 5472,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 6GB RAM, 5472mAh battery, fast charging"
+  },
+  {
+    "id": "P0151",
+    "name": "Norde Max Smartphone 240",
+    "category": "smartphone",
+    "price": 582.42,
+    "rating": 3.2,
+    "review_count": 325,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "battery_mah": 4567,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 8GB RAM, 4567mAh battery, fast charging"
+  },
+  {
+    "id": "P0152",
+    "name": "Aurel Pro Smartphone 362",
+    "category": "smartphone",
+    "price": 762.93,
+    "rating": 4.2,
+    "review_count": 1778,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_mah": 5225,
+      "camera_mp": 50,
+      "fast_charging": false
+    },
+    "description": "smartphone with 50MP camera, 8GB RAM, 5225mAh battery"
+  },
+  {
+    "id": "P0153",
+    "name": "Aurel Pro Smartphone 344",
+    "category": "smartphone",
+    "price": 1131.41,
+    "rating": 3.5,
+    "review_count": 3451,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 512,
+      "battery_mah": 5289,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 6GB RAM, 5289mAh battery, fast charging"
+  },
+  {
+    "id": "P0154",
+    "name": "Astra Pro Smartphone 747",
+    "category": "smartphone",
+    "price": 1204.03,
+    "rating": 3.9,
+    "review_count": 4233,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "battery_mah": 4736,
+      "camera_mp": 48,
+      "fast_charging": true
+    },
+    "description": "smartphone with 48MP camera, 12GB RAM, 4736mAh battery, fast charging"
+  },
+  {
+    "id": "P0155",
+    "name": "Kirei One Smartphone 526",
+    "category": "smartphone",
+    "price": 715.09,
+    "rating": 4.2,
+    "review_count": 1546,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 128,
+      "battery_mah": 5271,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 12GB RAM, 5271mAh battery, fast charging"
+  },
+  {
+    "id": "P0156",
+    "name": "Astra Flex Smartphone 120",
+    "category": "smartphone",
+    "price": 1344.08,
+    "rating": 4.0,
+    "review_count": 3210,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "battery_mah": 3975,
+      "camera_mp": 108,
+      "fast_charging": true
+    },
+    "description": "smartphone with 108MP camera, 12GB RAM, 3975mAh battery, fast charging"
+  },
+  {
+    "id": "P0157",
+    "name": "Aurel Edge Smartphone 346",
+    "category": "smartphone",
+    "price": 504.38,
+    "rating": 3.0,
+    "review_count": 861,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "battery_mah": 5101,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 8GB RAM, 5101mAh battery, fast charging"
+  },
+  {
+    "id": "P0158",
+    "name": "Vanta Core Smartphone 812",
+    "category": "smartphone",
+    "price": 253.2,
+    "rating": 4.0,
+    "review_count": 3932,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "battery_mah": 5349,
+      "camera_mp": 108,
+      "fast_charging": true
+    },
+    "description": "smartphone with 108MP camera, 12GB RAM, 5349mAh battery, fast charging"
+  },
+  {
+    "id": "P0159",
+    "name": "Nexon Ultra Smartphone 306",
+    "category": "smartphone",
+    "price": 1059.25,
+    "rating": 4.8,
+    "review_count": 370,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 128,
+      "battery_mah": 5461,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 12GB RAM, 5461mAh battery, fast charging"
+  },
+  {
+    "id": "P0160",
+    "name": "Lumo Ultra Smartphone 137",
+    "category": "smartphone",
+    "price": 677.87,
+    "rating": 4.5,
+    "review_count": 1577,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 4446,
+      "camera_mp": 108,
+      "fast_charging": false
+    },
+    "description": "smartphone with 108MP camera, 6GB RAM, 4446mAh battery"
+  },
+  {
+    "id": "P0161",
+    "name": "Norde Prime Smartphone 509",
+    "category": "smartphone",
+    "price": 598.31,
+    "rating": 3.2,
+    "review_count": 3614,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_mah": 5399,
+      "camera_mp": 48,
+      "fast_charging": false
+    },
+    "description": "smartphone with 48MP camera, 8GB RAM, 5399mAh battery"
+  },
+  {
+    "id": "P0162",
+    "name": "Astra Ultra Smartphone 920",
+    "category": "smartphone",
+    "price": 797.03,
+    "rating": 4.8,
+    "review_count": 688,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_mah": 4182,
+      "camera_mp": 200,
+      "fast_charging": false
+    },
+    "description": "smartphone with 200MP camera, 8GB RAM, 4182mAh battery"
+  },
+  {
+    "id": "P0163",
+    "name": "Bolt Edge Smartphone 205",
+    "category": "smartphone",
+    "price": 1394.12,
+    "rating": 3.3,
+    "review_count": 667,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "battery_mah": 3961,
+      "camera_mp": 200,
+      "fast_charging": false
+    },
+    "description": "smartphone with 200MP camera, 12GB RAM, 3961mAh battery"
+  },
+  {
+    "id": "P0164",
+    "name": "Lumo Edge Smartphone 557",
+    "category": "smartphone",
+    "price": 923.15,
+    "rating": 3.8,
+    "review_count": 358,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "battery_mah": 4405,
+      "camera_mp": 108,
+      "fast_charging": true
+    },
+    "description": "smartphone with 108MP camera, 8GB RAM, 4405mAh battery, fast charging"
+  },
+  {
+    "id": "P0165",
+    "name": "Nexon Air Smartphone 787",
+    "category": "smartphone",
+    "price": 967.36,
+    "rating": 4.5,
+    "review_count": 3339,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "battery_mah": 5059,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 12GB RAM, 5059mAh battery, fast charging"
+  },
+  {
+    "id": "P0166",
+    "name": "Lumo Pro Smartphone 229",
+    "category": "smartphone",
+    "price": 371.34,
+    "rating": 4.2,
+    "review_count": 562,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "battery_mah": 5440,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 8GB RAM, 5440mAh battery, fast charging"
+  },
+  {
+    "id": "P0167",
+    "name": "Vanta Core Smartphone 479",
+    "category": "smartphone",
+    "price": 1339.36,
+    "rating": 3.1,
+    "review_count": 3059,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 512,
+      "battery_mah": 4550,
+      "camera_mp": 108,
+      "fast_charging": true
+    },
+    "description": "smartphone with 108MP camera, 6GB RAM, 4550mAh battery, fast charging"
+  },
+  {
+    "id": "P0168",
+    "name": "Bolt Lite Smartphone 216",
+    "category": "smartphone",
+    "price": 640.34,
+    "rating": 3.6,
+    "review_count": 224,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "battery_mah": 4975,
+      "camera_mp": 50,
+      "fast_charging": false
+    },
+    "description": "smartphone with 50MP camera, 8GB RAM, 4975mAh battery"
+  },
+  {
+    "id": "P0169",
+    "name": "Lumo Lite Smartphone 726",
+    "category": "smartphone",
+    "price": 341.31,
+    "rating": 4.5,
+    "review_count": 2351,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 128,
+      "battery_mah": 4822,
+      "camera_mp": 200,
+      "fast_charging": false
+    },
+    "description": "smartphone with 200MP camera, 12GB RAM, 4822mAh battery"
+  },
+  {
+    "id": "P0170",
+    "name": "Lumo Air Smartphone 929",
+    "category": "smartphone",
+    "price": 1223.39,
+    "rating": 3.9,
+    "review_count": 2630,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "battery_mah": 4209,
+      "camera_mp": 48,
+      "fast_charging": true
+    },
+    "description": "smartphone with 48MP camera, 12GB RAM, 4209mAh battery, fast charging"
+  },
+  {
+    "id": "P0171",
+    "name": "Vanta Max Smartphone 912",
+    "category": "smartphone",
+    "price": 850.61,
+    "rating": 4.7,
+    "review_count": 2973,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "battery_mah": 5253,
+      "camera_mp": 48,
+      "fast_charging": false
+    },
+    "description": "smartphone with 48MP camera, 12GB RAM, 5253mAh battery"
+  },
+  {
+    "id": "P0172",
+    "name": "Norde Flex Smartphone 686",
+    "category": "smartphone",
+    "price": 484.08,
+    "rating": 3.9,
+    "review_count": 3034,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 128,
+      "battery_mah": 4048,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 12GB RAM, 4048mAh battery, fast charging"
+  },
+  {
+    "id": "P0173",
+    "name": "Lumo Flex Smartphone 520",
+    "category": "smartphone",
+    "price": 571.15,
+    "rating": 4.9,
+    "review_count": 3366,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "battery_mah": 4065,
+      "camera_mp": 48,
+      "fast_charging": true
+    },
+    "description": "smartphone with 48MP camera, 8GB RAM, 4065mAh battery, fast charging"
+  },
+  {
+    "id": "P0174",
+    "name": "Astra Edge Smartphone 231",
+    "category": "smartphone",
+    "price": 289.0,
+    "rating": 3.9,
+    "review_count": 4528,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 128,
+      "battery_mah": 4056,
+      "camera_mp": 108,
+      "fast_charging": false
+    },
+    "description": "smartphone with 108MP camera, 12GB RAM, 4056mAh battery"
+  },
+  {
+    "id": "P0175",
+    "name": "Aurel Flex Smartphone 256",
+    "category": "smartphone",
+    "price": 803.44,
+    "rating": 4.6,
+    "review_count": 2503,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "battery_mah": 4172,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 12GB RAM, 4172mAh battery, fast charging"
+  },
+  {
+    "id": "P0176",
+    "name": "Bolt Air Smartphone 356",
+    "category": "smartphone",
+    "price": 1336.98,
+    "rating": 4.0,
+    "review_count": 1620,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 4460,
+      "camera_mp": 50,
+      "fast_charging": true
+    },
+    "description": "smartphone with 50MP camera, 6GB RAM, 4460mAh battery, fast charging"
+  },
+  {
+    "id": "P0177",
+    "name": "Astra Max Smartphone 706",
+    "category": "smartphone",
+    "price": 563.39,
+    "rating": 4.0,
+    "review_count": 4768,
+    "attributes": {
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "battery_mah": 4362,
+      "camera_mp": 50,
+      "fast_charging": false
+    },
+    "description": "smartphone with 50MP camera, 12GB RAM, 4362mAh battery"
+  },
+  {
+    "id": "P0178",
+    "name": "Aurel Pro Smartphone 756",
+    "category": "smartphone",
+    "price": 249.43,
+    "rating": 4.6,
+    "review_count": 4736,
+    "attributes": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 5149,
+      "camera_mp": 108,
+      "fast_charging": false
+    },
+    "description": "smartphone with 108MP camera, 6GB RAM, 5149mAh battery"
+  },
+  {
+    "id": "P0179",
+    "name": "Astra Ultra Smartphone 757",
+    "category": "smartphone",
+    "price": 966.79,
+    "rating": 3.9,
+    "review_count": 2486,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "battery_mah": 4231,
+      "camera_mp": 200,
+      "fast_charging": false
+    },
+    "description": "smartphone with 200MP camera, 8GB RAM, 4231mAh battery"
+  },
+  {
+    "id": "P0180",
+    "name": "Vanta Core Smartphone 525",
+    "category": "smartphone",
+    "price": 744.25,
+    "rating": 4.3,
+    "review_count": 3978,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "battery_mah": 5448,
+      "camera_mp": 200,
+      "fast_charging": true
+    },
+    "description": "smartphone with 200MP camera, 8GB RAM, 5448mAh battery, fast charging"
+  },
+  {
+    "id": "P0181",
+    "name": "Norde Prime Monitor 233",
+    "category": "monitor",
+    "price": 426.33,
+    "rating": 4.4,
+    "review_count": 3047,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "1440p",
+      "refresh_hz": 144,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "32\" 1440p OLED monitor, 144Hz refresh, HDR"
+  },
+  {
+    "id": "P0182",
+    "name": "Vanta Air Monitor 151",
+    "category": "monitor",
+    "price": 240.07,
+    "rating": 3.9,
+    "review_count": 2389,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "1080p",
+      "refresh_hz": 144,
+      "panel": "IPS",
+      "hdr": false
+    },
+    "description": "34\" 1080p IPS monitor, 144Hz refresh"
+  },
+  {
+    "id": "P0183",
+    "name": "Kirei Max Monitor 610",
+    "category": "monitor",
+    "price": 1035.08,
+    "rating": 4.4,
+    "review_count": 4228,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "4k",
+      "refresh_hz": 75,
+      "panel": "IPS",
+      "hdr": false
+    },
+    "description": "32\" 4k IPS monitor, 75Hz refresh"
+  },
+  {
+    "id": "P0184",
+    "name": "Lumo Lite Monitor 320",
+    "category": "monitor",
+    "price": 208.25,
+    "rating": 3.7,
+    "review_count": 4790,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "4k",
+      "refresh_hz": 144,
+      "panel": "VA",
+      "hdr": true
+    },
+    "description": "32\" 4k VA monitor, 144Hz refresh, HDR"
+  },
+  {
+    "id": "P0185",
+    "name": "Lumo Ultra Monitor 649",
+    "category": "monitor",
+    "price": 705.57,
+    "rating": 4.6,
+    "review_count": 78,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "1080p",
+      "refresh_hz": 60,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "27\" 1080p VA monitor, 60Hz refresh"
+  },
+  {
+    "id": "P0186",
+    "name": "Peak Pro Monitor 683",
+    "category": "monitor",
+    "price": 868.58,
+    "rating": 3.7,
+    "review_count": 4614,
+    "attributes": {
+      "size_inches": 24,
+      "resolution": "4k",
+      "refresh_hz": 75,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "24\" 4k VA monitor, 75Hz refresh"
+  },
+  {
+    "id": "P0187",
+    "name": "Astra Ultra Monitor 945",
+    "category": "monitor",
+    "price": 498.62,
+    "rating": 3.9,
+    "review_count": 985,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 240,
+      "panel": "VA",
+      "hdr": true
+    },
+    "description": "27\" 4k VA monitor, 240Hz refresh, HDR"
+  },
+  {
+    "id": "P0188",
+    "name": "Vanta Lite Monitor 716",
+    "category": "monitor",
+    "price": 666.68,
+    "rating": 3.7,
+    "review_count": 4182,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "1080p",
+      "refresh_hz": 165,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "27\" 1080p VA monitor, 165Hz refresh"
+  },
+  {
+    "id": "P0189",
+    "name": "Astra Core Monitor 252",
+    "category": "monitor",
+    "price": 819.32,
+    "rating": 4.5,
+    "review_count": 4235,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "1080p",
+      "refresh_hz": 60,
+      "panel": "IPS",
+      "hdr": true
+    },
+    "description": "32\" 1080p IPS monitor, 60Hz refresh, HDR"
+  },
+  {
+    "id": "P0190",
+    "name": "Bolt One Monitor 444",
+    "category": "monitor",
+    "price": 505.1,
+    "rating": 4.2,
+    "review_count": 4167,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 240,
+      "panel": "VA",
+      "hdr": true
+    },
+    "description": "27\" 4k VA monitor, 240Hz refresh, HDR"
+  },
+  {
+    "id": "P0191",
+    "name": "Aurel Prime Monitor 697",
+    "category": "monitor",
+    "price": 919.43,
+    "rating": 3.7,
+    "review_count": 2532,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "4k",
+      "refresh_hz": 240,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "34\" 4k VA monitor, 240Hz refresh"
+  },
+  {
+    "id": "P0192",
+    "name": "Vanta Flex Monitor 744",
+    "category": "monitor",
+    "price": 826.97,
+    "rating": 4.1,
+    "review_count": 3126,
+    "attributes": {
+      "size_inches": 24,
+      "resolution": "4k",
+      "refresh_hz": 144,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "24\" 4k OLED monitor, 144Hz refresh, HDR"
+  },
+  {
+    "id": "P0193",
+    "name": "Peak Max Monitor 522",
+    "category": "monitor",
+    "price": 306.97,
+    "rating": 3.8,
+    "review_count": 1682,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "1440p",
+      "refresh_hz": 60,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "27\" 1440p OLED monitor, 60Hz refresh, HDR"
+  },
+  {
+    "id": "P0194",
+    "name": "Lumo Flex Monitor 485",
+    "category": "monitor",
+    "price": 628.31,
+    "rating": 4.1,
+    "review_count": 2582,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "4k",
+      "refresh_hz": 60,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "32\" 4k OLED monitor, 60Hz refresh, HDR"
+  },
+  {
+    "id": "P0195",
+    "name": "Bolt One Monitor 595",
+    "category": "monitor",
+    "price": 782.35,
+    "rating": 4.6,
+    "review_count": 1587,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 240,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "27\" 4k VA monitor, 240Hz refresh"
+  },
+  {
+    "id": "P0196",
+    "name": "Bolt Lite Monitor 806",
+    "category": "monitor",
+    "price": 1042.66,
+    "rating": 4.9,
+    "review_count": 4017,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 240,
+      "panel": "VA",
+      "hdr": true
+    },
+    "description": "27\" 4k VA monitor, 240Hz refresh, HDR"
+  },
+  {
+    "id": "P0197",
+    "name": "Astra Prime Monitor 504",
+    "category": "monitor",
+    "price": 402.03,
+    "rating": 4.1,
+    "review_count": 2839,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 144,
+      "panel": "OLED",
+      "hdr": false
+    },
+    "description": "27\" 4k OLED monitor, 144Hz refresh"
+  },
+  {
+    "id": "P0198",
+    "name": "Bolt Core Monitor 319",
+    "category": "monitor",
+    "price": 459.44,
+    "rating": 3.8,
+    "review_count": 1667,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 60,
+      "panel": "VA",
+      "hdr": true
+    },
+    "description": "27\" 4k VA monitor, 60Hz refresh, HDR"
+  },
+  {
+    "id": "P0199",
+    "name": "Crest Lite Monitor 348",
+    "category": "monitor",
+    "price": 254.53,
+    "rating": 4.2,
+    "review_count": 427,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "4k",
+      "refresh_hz": 240,
+      "panel": "OLED",
+      "hdr": false
+    },
+    "description": "34\" 4k OLED monitor, 240Hz refresh"
+  },
+  {
+    "id": "P0200",
+    "name": "Aurel Max Monitor 105",
+    "category": "monitor",
+    "price": 525.04,
+    "rating": 4.4,
+    "review_count": 4520,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "1440p",
+      "refresh_hz": 75,
+      "panel": "IPS",
+      "hdr": true
+    },
+    "description": "34\" 1440p IPS monitor, 75Hz refresh, HDR"
+  },
+  {
+    "id": "P0201",
+    "name": "Bolt Pro Monitor 887",
+    "category": "monitor",
+    "price": 860.79,
+    "rating": 3.5,
+    "review_count": 744,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 165,
+      "panel": "VA",
+      "hdr": true
+    },
+    "description": "27\" 4k VA monitor, 165Hz refresh, HDR"
+  },
+  {
+    "id": "P0202",
+    "name": "Vanta Pro Monitor 956",
+    "category": "monitor",
+    "price": 1014.97,
+    "rating": 3.3,
+    "review_count": 3264,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "1440p",
+      "refresh_hz": 240,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "34\" 1440p OLED monitor, 240Hz refresh, HDR"
+  },
+  {
+    "id": "P0203",
+    "name": "Norde Ultra Monitor 565",
+    "category": "monitor",
+    "price": 412.42,
+    "rating": 4.1,
+    "review_count": 4462,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "1440p",
+      "refresh_hz": 144,
+      "panel": "IPS",
+      "hdr": true
+    },
+    "description": "32\" 1440p IPS monitor, 144Hz refresh, HDR"
+  },
+  {
+    "id": "P0204",
+    "name": "Norde Max Monitor 848",
+    "category": "monitor",
+    "price": 387.38,
+    "rating": 4.5,
+    "review_count": 3771,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "4k",
+      "refresh_hz": 75,
+      "panel": "OLED",
+      "hdr": false
+    },
+    "description": "34\" 4k OLED monitor, 75Hz refresh"
+  },
+  {
+    "id": "P0205",
+    "name": "Kirei Max Monitor 725",
+    "category": "monitor",
+    "price": 894.95,
+    "rating": 4.1,
+    "review_count": 3333,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "1440p",
+      "refresh_hz": 60,
+      "panel": "OLED",
+      "hdr": false
+    },
+    "description": "27\" 1440p OLED monitor, 60Hz refresh"
+  },
+  {
+    "id": "P0206",
+    "name": "Norde Lite Monitor 106",
+    "category": "monitor",
+    "price": 301.09,
+    "rating": 3.3,
+    "review_count": 2148,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "4k",
+      "refresh_hz": 60,
+      "panel": "VA",
+      "hdr": true
+    },
+    "description": "32\" 4k VA monitor, 60Hz refresh, HDR"
+  },
+  {
+    "id": "P0207",
+    "name": "Nexon Ultra Monitor 769",
+    "category": "monitor",
+    "price": 415.91,
+    "rating": 4.4,
+    "review_count": 2957,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "1440p",
+      "refresh_hz": 165,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "32\" 1440p VA monitor, 165Hz refresh"
+  },
+  {
+    "id": "P0208",
+    "name": "Bolt Air Monitor 754",
+    "category": "monitor",
+    "price": 276.52,
+    "rating": 4.3,
+    "review_count": 2428,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "1080p",
+      "refresh_hz": 60,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "27\" 1080p VA monitor, 60Hz refresh"
+  },
+  {
+    "id": "P0209",
+    "name": "Crest Edge Monitor 525",
+    "category": "monitor",
+    "price": 270.12,
+    "rating": 4.4,
+    "review_count": 4511,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "1440p",
+      "refresh_hz": 75,
+      "panel": "IPS",
+      "hdr": false
+    },
+    "description": "27\" 1440p IPS monitor, 75Hz refresh"
+  },
+  {
+    "id": "P0210",
+    "name": "Norde Air Monitor 677",
+    "category": "monitor",
+    "price": 635.0,
+    "rating": 4.0,
+    "review_count": 931,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "1440p",
+      "refresh_hz": 75,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "32\" 1440p OLED monitor, 75Hz refresh, HDR"
+  },
+  {
+    "id": "P0211",
+    "name": "Lumo Air Monitor 796",
+    "category": "monitor",
+    "price": 281.25,
+    "rating": 4.6,
+    "review_count": 1694,
+    "attributes": {
+      "size_inches": 24,
+      "resolution": "1440p",
+      "refresh_hz": 240,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "24\" 1440p OLED monitor, 240Hz refresh, HDR"
+  },
+  {
+    "id": "P0212",
+    "name": "Astra Prime Monitor 567",
+    "category": "monitor",
+    "price": 912.52,
+    "rating": 3.9,
+    "review_count": 4631,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "4k",
+      "refresh_hz": 60,
+      "panel": "OLED",
+      "hdr": false
+    },
+    "description": "34\" 4k OLED monitor, 60Hz refresh"
+  },
+  {
+    "id": "P0213",
+    "name": "Kirei One Monitor 174",
+    "category": "monitor",
+    "price": 508.03,
+    "rating": 4.6,
+    "review_count": 383,
+    "attributes": {
+      "size_inches": 24,
+      "resolution": "4k",
+      "refresh_hz": 144,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "24\" 4k OLED monitor, 144Hz refresh, HDR"
+  },
+  {
+    "id": "P0214",
+    "name": "Lumo Pro Monitor 393",
+    "category": "monitor",
+    "price": 1035.89,
+    "rating": 3.1,
+    "review_count": 3361,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "4k",
+      "refresh_hz": 60,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "32\" 4k OLED monitor, 60Hz refresh, HDR"
+  },
+  {
+    "id": "P0215",
+    "name": "Peak Prime Monitor 182",
+    "category": "monitor",
+    "price": 559.57,
+    "rating": 4.7,
+    "review_count": 4429,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "1440p",
+      "refresh_hz": 165,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "27\" 1440p VA monitor, 165Hz refresh"
+  },
+  {
+    "id": "P0216",
+    "name": "Kirei Pro Monitor 874",
+    "category": "monitor",
+    "price": 638.27,
+    "rating": 4.4,
+    "review_count": 198,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 60,
+      "panel": "IPS",
+      "hdr": false
+    },
+    "description": "27\" 4k IPS monitor, 60Hz refresh"
+  },
+  {
+    "id": "P0217",
+    "name": "Norde Max Monitor 382",
+    "category": "monitor",
+    "price": 926.89,
+    "rating": 3.5,
+    "review_count": 1556,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 240,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "27\" 4k VA monitor, 240Hz refresh"
+  },
+  {
+    "id": "P0218",
+    "name": "Crest Pro Monitor 557",
+    "category": "monitor",
+    "price": 355.85,
+    "rating": 3.1,
+    "review_count": 410,
+    "attributes": {
+      "size_inches": 24,
+      "resolution": "1080p",
+      "refresh_hz": 165,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "24\" 1080p OLED monitor, 165Hz refresh, HDR"
+  },
+  {
+    "id": "P0219",
+    "name": "Nexon Max Monitor 615",
+    "category": "monitor",
+    "price": 648.96,
+    "rating": 4.4,
+    "review_count": 2381,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "1080p",
+      "refresh_hz": 165,
+      "panel": "VA",
+      "hdr": true
+    },
+    "description": "27\" 1080p VA monitor, 165Hz refresh, HDR"
+  },
+  {
+    "id": "P0220",
+    "name": "Astra Lite Monitor 523",
+    "category": "monitor",
+    "price": 352.17,
+    "rating": 4.7,
+    "review_count": 2473,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 240,
+      "panel": "OLED",
+      "hdr": false
+    },
+    "description": "27\" 4k OLED monitor, 240Hz refresh"
+  },
+  {
+    "id": "P0221",
+    "name": "Lumo Pro Monitor 452",
+    "category": "monitor",
+    "price": 733.47,
+    "rating": 3.8,
+    "review_count": 3134,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "1080p",
+      "refresh_hz": 240,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "27\" 1080p OLED monitor, 240Hz refresh, HDR"
+  },
+  {
+    "id": "P0222",
+    "name": "Astra Core Monitor 346",
+    "category": "monitor",
+    "price": 413.89,
+    "rating": 3.3,
+    "review_count": 1858,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "4k",
+      "refresh_hz": 165,
+      "panel": "VA",
+      "hdr": true
+    },
+    "description": "34\" 4k VA monitor, 165Hz refresh, HDR"
+  },
+  {
+    "id": "P0223",
+    "name": "Vanta Prime Monitor 348",
+    "category": "monitor",
+    "price": 1068.43,
+    "rating": 4.1,
+    "review_count": 2100,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "1440p",
+      "refresh_hz": 165,
+      "panel": "IPS",
+      "hdr": false
+    },
+    "description": "27\" 1440p IPS monitor, 165Hz refresh"
+  },
+  {
+    "id": "P0224",
+    "name": "Kirei Pro Monitor 374",
+    "category": "monitor",
+    "price": 210.61,
+    "rating": 4.4,
+    "review_count": 3101,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 60,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "27\" 4k VA monitor, 60Hz refresh"
+  },
+  {
+    "id": "P0225",
+    "name": "Norde Ultra Monitor 115",
+    "category": "monitor",
+    "price": 589.81,
+    "rating": 4.7,
+    "review_count": 1747,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "1080p",
+      "refresh_hz": 60,
+      "panel": "IPS",
+      "hdr": true
+    },
+    "description": "34\" 1080p IPS monitor, 60Hz refresh, HDR"
+  },
+  {
+    "id": "P0226",
+    "name": "Norde Ultra Monitor 489",
+    "category": "monitor",
+    "price": 508.7,
+    "rating": 3.5,
+    "review_count": 3831,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "1080p",
+      "refresh_hz": 165,
+      "panel": "IPS",
+      "hdr": true
+    },
+    "description": "27\" 1080p IPS monitor, 165Hz refresh, HDR"
+  },
+  {
+    "id": "P0227",
+    "name": "Aurel Core Monitor 879",
+    "category": "monitor",
+    "price": 622.56,
+    "rating": 3.9,
+    "review_count": 2635,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "4k",
+      "refresh_hz": 144,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "34\" 4k VA monitor, 144Hz refresh"
+  },
+  {
+    "id": "P0228",
+    "name": "Vanta Pro Monitor 367",
+    "category": "monitor",
+    "price": 671.27,
+    "rating": 3.4,
+    "review_count": 4544,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 144,
+      "panel": "VA",
+      "hdr": true
+    },
+    "description": "27\" 4k VA monitor, 144Hz refresh, HDR"
+  },
+  {
+    "id": "P0229",
+    "name": "Kirei Core Monitor 663",
+    "category": "monitor",
+    "price": 443.27,
+    "rating": 3.7,
+    "review_count": 2777,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "4k",
+      "refresh_hz": 144,
+      "panel": "IPS",
+      "hdr": true
+    },
+    "description": "34\" 4k IPS monitor, 144Hz refresh, HDR"
+  },
+  {
+    "id": "P0230",
+    "name": "Vanta Flex Monitor 600",
+    "category": "monitor",
+    "price": 838.12,
+    "rating": 3.7,
+    "review_count": 1519,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 165,
+      "panel": "VA",
+      "hdr": true
+    },
+    "description": "27\" 4k VA monitor, 165Hz refresh, HDR"
+  },
+  {
+    "id": "P0231",
+    "name": "Nexon Prime Monitor 240",
+    "category": "monitor",
+    "price": 1046.28,
+    "rating": 4.3,
+    "review_count": 1907,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "1080p",
+      "refresh_hz": 240,
+      "panel": "IPS",
+      "hdr": true
+    },
+    "description": "34\" 1080p IPS monitor, 240Hz refresh, HDR"
+  },
+  {
+    "id": "P0232",
+    "name": "Crest Core Monitor 775",
+    "category": "monitor",
+    "price": 485.74,
+    "rating": 4.2,
+    "review_count": 4008,
+    "attributes": {
+      "size_inches": 24,
+      "resolution": "1440p",
+      "refresh_hz": 60,
+      "panel": "IPS",
+      "hdr": false
+    },
+    "description": "24\" 1440p IPS monitor, 60Hz refresh"
+  },
+  {
+    "id": "P0233",
+    "name": "Bolt Flex Monitor 393",
+    "category": "monitor",
+    "price": 131.61,
+    "rating": 4.0,
+    "review_count": 152,
+    "attributes": {
+      "size_inches": 24,
+      "resolution": "1080p",
+      "refresh_hz": 240,
+      "panel": "OLED",
+      "hdr": false
+    },
+    "description": "24\" 1080p OLED monitor, 240Hz refresh"
+  },
+  {
+    "id": "P0234",
+    "name": "Crest Flex Monitor 358",
+    "category": "monitor",
+    "price": 633.9,
+    "rating": 3.5,
+    "review_count": 2915,
+    "attributes": {
+      "size_inches": 34,
+      "resolution": "4k",
+      "refresh_hz": 75,
+      "panel": "IPS",
+      "hdr": true
+    },
+    "description": "34\" 4k IPS monitor, 75Hz refresh, HDR"
+  },
+  {
+    "id": "P0235",
+    "name": "Kirei Ultra Monitor 800",
+    "category": "monitor",
+    "price": 569.82,
+    "rating": 3.5,
+    "review_count": 672,
+    "attributes": {
+      "size_inches": 27,
+      "resolution": "4k",
+      "refresh_hz": 60,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "27\" 4k VA monitor, 60Hz refresh"
+  },
+  {
+    "id": "P0236",
+    "name": "Nexon Max Monitor 184",
+    "category": "monitor",
+    "price": 661.65,
+    "rating": 3.1,
+    "review_count": 4106,
+    "attributes": {
+      "size_inches": 24,
+      "resolution": "1080p",
+      "refresh_hz": 165,
+      "panel": "VA",
+      "hdr": false
+    },
+    "description": "24\" 1080p VA monitor, 165Hz refresh"
+  },
+  {
+    "id": "P0237",
+    "name": "Crest Core Monitor 377",
+    "category": "monitor",
+    "price": 345.17,
+    "rating": 4.7,
+    "review_count": 393,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "4k",
+      "refresh_hz": 240,
+      "panel": "IPS",
+      "hdr": true
+    },
+    "description": "32\" 4k IPS monitor, 240Hz refresh, HDR"
+  },
+  {
+    "id": "P0238",
+    "name": "Nexon Lite Monitor 701",
+    "category": "monitor",
+    "price": 295.77,
+    "rating": 4.6,
+    "review_count": 1193,
+    "attributes": {
+      "size_inches": 24,
+      "resolution": "4k",
+      "refresh_hz": 240,
+      "panel": "OLED",
+      "hdr": true
+    },
+    "description": "24\" 4k OLED monitor, 240Hz refresh, HDR"
+  },
+  {
+    "id": "P0239",
+    "name": "Astra Edge Monitor 493",
+    "category": "monitor",
+    "price": 675.36,
+    "rating": 4.6,
+    "review_count": 1158,
+    "attributes": {
+      "size_inches": 32,
+      "resolution": "1080p",
+      "refresh_hz": 144,
+      "panel": "IPS",
+      "hdr": true
+    },
+    "description": "32\" 1080p IPS monitor, 144Hz refresh, HDR"
+  },
+  {
+    "id": "P0240",
+    "name": "Crest One Monitor 709",
+    "category": "monitor",
+    "price": 347.5,
+    "rating": 3.1,
+    "review_count": 3261,
+    "attributes": {
+      "size_inches": 24,
+      "resolution": "4k",
+      "refresh_hz": 60,
+      "panel": "IPS",
+      "hdr": false
+    },
+    "description": "24\" 4k IPS monitor, 60Hz refresh"
+  },
+  {
+    "id": "P0241",
+    "name": "Kirei Edge Office Chair 666",
+    "category": "office chair",
+    "price": 1038.09,
+    "rating": 3.9,
+    "review_count": 3087,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "leather",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic leather office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0242",
+    "name": "Kirei Air Office Chair 184",
+    "category": "office chair",
+    "price": 193.69,
+    "rating": 4.2,
+    "review_count": 2207,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "leather",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic leather office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0243",
+    "name": "Aurel Air Office Chair 105",
+    "category": "office chair",
+    "price": 984.98,
+    "rating": 3.6,
+    "review_count": 2537,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "leather",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic leather office chair with lumbar support"
+  },
+  {
+    "id": "P0244",
+    "name": "Lumo Flex Office Chair 668",
+    "category": "office chair",
+    "price": 250.33,
+    "rating": 3.4,
+    "review_count": 4209,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic fabric office chair with lumbar support"
+  },
+  {
+    "id": "P0245",
+    "name": "Crest Edge Office Chair 984",
+    "category": "office chair",
+    "price": 518.24,
+    "rating": 3.2,
+    "review_count": 3167,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "mesh",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic mesh office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0246",
+    "name": "Astra Lite Office Chair 685",
+    "category": "office chair",
+    "price": 1032.79,
+    "rating": 4.4,
+    "review_count": 4280,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic fabric office chair with lumbar support"
+  },
+  {
+    "id": "P0247",
+    "name": "Vanta Air Office Chair 271",
+    "category": "office chair",
+    "price": 415.39,
+    "rating": 3.5,
+    "review_count": 3572,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "mesh",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic mesh office chair with lumbar support"
+  },
+  {
+    "id": "P0248",
+    "name": "Kirei Core Office Chair 708",
+    "category": "office chair",
+    "price": 1037.03,
+    "rating": 3.7,
+    "review_count": 1613,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic fabric office chair with lumbar support"
+  },
+  {
+    "id": "P0249",
+    "name": "Crest Prime Office Chair 923",
+    "category": "office chair",
+    "price": 98.19,
+    "rating": 3.8,
+    "review_count": 2711,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "mesh",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic mesh office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0250",
+    "name": "Kirei Core Office Chair 421",
+    "category": "office chair",
+    "price": 453.53,
+    "rating": 4.1,
+    "review_count": 1467,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic fabric office chair with lumbar support"
+  },
+  {
+    "id": "P0251",
+    "name": "Norde Prime Office Chair 387",
+    "category": "office chair",
+    "price": 1260.99,
+    "rating": 4.5,
+    "review_count": 3230,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic fabric office chair with lumbar support"
+  },
+  {
+    "id": "P0252",
+    "name": "Astra Pro Office Chair 844",
+    "category": "office chair",
+    "price": 806.59,
+    "rating": 4.0,
+    "review_count": 3793,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "leather",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic leather office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0253",
+    "name": "Peak Core Office Chair 242",
+    "category": "office chair",
+    "price": 1095.85,
+    "rating": 3.1,
+    "review_count": 2492,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": true,
+      "material": "fabric",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic fabric office chair, adjustable arms"
+  },
+  {
+    "id": "P0254",
+    "name": "Aurel Core Office Chair 712",
+    "category": "office chair",
+    "price": 955.44,
+    "rating": 4.5,
+    "review_count": 3937,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "leather",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic leather office chair with lumbar support"
+  },
+  {
+    "id": "P0255",
+    "name": "Norde Flex Office Chair 708",
+    "category": "office chair",
+    "price": 747.81,
+    "rating": 4.5,
+    "review_count": 708,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": false,
+      "material": "leather",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic leather office chair"
+  },
+  {
+    "id": "P0256",
+    "name": "Crest Prime Office Chair 870",
+    "category": "office chair",
+    "price": 291.27,
+    "rating": 4.2,
+    "review_count": 2728,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "leather",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic leather office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0257",
+    "name": "Astra Flex Office Chair 694",
+    "category": "office chair",
+    "price": 403.07,
+    "rating": 4.0,
+    "review_count": 4724,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "mesh",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic mesh office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0258",
+    "name": "Astra Max Office Chair 453",
+    "category": "office chair",
+    "price": 650.31,
+    "rating": 4.3,
+    "review_count": 213,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic fabric office chair with lumbar support"
+  },
+  {
+    "id": "P0259",
+    "name": "Vanta Edge Office Chair 419",
+    "category": "office chair",
+    "price": 1203.86,
+    "rating": 3.2,
+    "review_count": 2822,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "fabric",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic fabric office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0260",
+    "name": "Lumo Edge Office Chair 168",
+    "category": "office chair",
+    "price": 511.44,
+    "rating": 3.2,
+    "review_count": 2471,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "leather",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic leather office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0261",
+    "name": "Vanta Lite Office Chair 628",
+    "category": "office chair",
+    "price": 874.04,
+    "rating": 4.3,
+    "review_count": 1441,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "mesh",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic mesh office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0262",
+    "name": "Peak Max Office Chair 290",
+    "category": "office chair",
+    "price": 1249.74,
+    "rating": 3.4,
+    "review_count": 3552,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": true,
+      "material": "fabric",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic fabric office chair, adjustable arms"
+  },
+  {
+    "id": "P0263",
+    "name": "Nexon Lite Office Chair 310",
+    "category": "office chair",
+    "price": 633.99,
+    "rating": 3.8,
+    "review_count": 2292,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "leather",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic leather office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0264",
+    "name": "Norde Edge Office Chair 301",
+    "category": "office chair",
+    "price": 1057.4,
+    "rating": 4.0,
+    "review_count": 3760,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": true,
+      "material": "leather",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic leather office chair, adjustable arms"
+  },
+  {
+    "id": "P0265",
+    "name": "Crest Prime Office Chair 725",
+    "category": "office chair",
+    "price": 728.54,
+    "rating": 4.2,
+    "review_count": 3227,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "leather",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic leather office chair with lumbar support"
+  },
+  {
+    "id": "P0266",
+    "name": "Bolt One Office Chair 704",
+    "category": "office chair",
+    "price": 1113.08,
+    "rating": 4.2,
+    "review_count": 706,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": true,
+      "material": "fabric",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic fabric office chair, adjustable arms"
+  },
+  {
+    "id": "P0267",
+    "name": "Norde Max Office Chair 623",
+    "category": "office chair",
+    "price": 378.67,
+    "rating": 3.2,
+    "review_count": 3194,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": true,
+      "material": "fabric",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic fabric office chair, adjustable arms"
+  },
+  {
+    "id": "P0268",
+    "name": "Astra Max Office Chair 668",
+    "category": "office chair",
+    "price": 601.88,
+    "rating": 3.9,
+    "review_count": 1378,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "leather",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic leather office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0269",
+    "name": "Nexon Edge Office Chair 109",
+    "category": "office chair",
+    "price": 470.64,
+    "rating": 3.9,
+    "review_count": 3981,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "mesh",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic mesh office chair with lumbar support"
+  },
+  {
+    "id": "P0270",
+    "name": "Lumo Core Office Chair 271",
+    "category": "office chair",
+    "price": 585.05,
+    "rating": 3.9,
+    "review_count": 689,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "fabric",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic fabric office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0271",
+    "name": "Bolt Max Office Chair 899",
+    "category": "office chair",
+    "price": 129.56,
+    "rating": 3.4,
+    "review_count": 3758,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": true,
+      "material": "mesh",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic mesh office chair, adjustable arms"
+  },
+  {
+    "id": "P0272",
+    "name": "Astra Edge Office Chair 655",
+    "category": "office chair",
+    "price": 782.98,
+    "rating": 3.5,
+    "review_count": 352,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": false,
+      "material": "leather",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic leather office chair"
+  },
+  {
+    "id": "P0273",
+    "name": "Kirei Ultra Office Chair 995",
+    "category": "office chair",
+    "price": 1287.63,
+    "rating": 3.2,
+    "review_count": 276,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": false,
+      "material": "leather",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic leather office chair"
+  },
+  {
+    "id": "P0274",
+    "name": "Kirei Lite Office Chair 930",
+    "category": "office chair",
+    "price": 621.27,
+    "rating": 4.9,
+    "review_count": 2884,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic fabric office chair with lumbar support"
+  },
+  {
+    "id": "P0275",
+    "name": "Nexon One Office Chair 459",
+    "category": "office chair",
+    "price": 1039.67,
+    "rating": 4.5,
+    "review_count": 4372,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": false,
+      "material": "mesh",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic mesh office chair"
+  },
+  {
+    "id": "P0276",
+    "name": "Astra Air Office Chair 238",
+    "category": "office chair",
+    "price": 440.09,
+    "rating": 3.5,
+    "review_count": 3383,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "fabric",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic fabric office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0277",
+    "name": "Vanta Edge Office Chair 948",
+    "category": "office chair",
+    "price": 938.73,
+    "rating": 3.3,
+    "review_count": 2039,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "leather",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic leather office chair with lumbar support"
+  },
+  {
+    "id": "P0278",
+    "name": "Peak Prime Office Chair 562",
+    "category": "office chair",
+    "price": 788.68,
+    "rating": 3.5,
+    "review_count": 630,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic fabric office chair"
+  },
+  {
+    "id": "P0279",
+    "name": "Lumo Core Office Chair 435",
+    "category": "office chair",
+    "price": 930.59,
+    "rating": 4.7,
+    "review_count": 4779,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": true,
+      "material": "fabric",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic fabric office chair, adjustable arms"
+  },
+  {
+    "id": "P0280",
+    "name": "Aurel Flex Office Chair 507",
+    "category": "office chair",
+    "price": 858.16,
+    "rating": 4.3,
+    "review_count": 1796,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "leather",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic leather office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0281",
+    "name": "Astra One Office Chair 233",
+    "category": "office chair",
+    "price": 480.67,
+    "rating": 3.5,
+    "review_count": 4649,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "fabric",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic fabric office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0282",
+    "name": "Lumo Pro Office Chair 227",
+    "category": "office chair",
+    "price": 145.59,
+    "rating": 4.2,
+    "review_count": 1306,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "leather",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic leather office chair with lumbar support"
+  },
+  {
+    "id": "P0283",
+    "name": "Vanta Ultra Office Chair 262",
+    "category": "office chair",
+    "price": 334.81,
+    "rating": 4.3,
+    "review_count": 2256,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "mesh",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic mesh office chair with lumbar support"
+  },
+  {
+    "id": "P0284",
+    "name": "Vanta Pro Office Chair 505",
+    "category": "office chair",
+    "price": 539.93,
+    "rating": 4.7,
+    "review_count": 2514,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic fabric office chair with lumbar support"
+  },
+  {
+    "id": "P0285",
+    "name": "Lumo Air Office Chair 235",
+    "category": "office chair",
+    "price": 941.47,
+    "rating": 3.0,
+    "review_count": 1864,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": true,
+      "material": "fabric",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic fabric office chair, adjustable arms"
+  },
+  {
+    "id": "P0286",
+    "name": "Peak Max Office Chair 589",
+    "category": "office chair",
+    "price": 931.67,
+    "rating": 4.6,
+    "review_count": 592,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": false,
+      "material": "mesh",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic mesh office chair"
+  },
+  {
+    "id": "P0287",
+    "name": "Bolt Max Office Chair 491",
+    "category": "office chair",
+    "price": 214.87,
+    "rating": 3.7,
+    "review_count": 1102,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "mesh",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic mesh office chair with lumbar support"
+  },
+  {
+    "id": "P0288",
+    "name": "Norde Lite Office Chair 743",
+    "category": "office chair",
+    "price": 828.49,
+    "rating": 3.3,
+    "review_count": 1252,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": true,
+      "material": "mesh",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic mesh office chair, adjustable arms"
+  },
+  {
+    "id": "P0289",
+    "name": "Aurel One Office Chair 847",
+    "category": "office chair",
+    "price": 1174.88,
+    "rating": 3.3,
+    "review_count": 3157,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "mesh",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic mesh office chair with lumbar support"
+  },
+  {
+    "id": "P0290",
+    "name": "Kirei Flex Office Chair 715",
+    "category": "office chair",
+    "price": 389.82,
+    "rating": 4.2,
+    "review_count": 2346,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic fabric office chair with lumbar support"
+  },
+  {
+    "id": "P0291",
+    "name": "Kirei Prime Office Chair 402",
+    "category": "office chair",
+    "price": 338.59,
+    "rating": 4.2,
+    "review_count": 459,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": true,
+      "material": "leather",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic leather office chair, adjustable arms"
+  },
+  {
+    "id": "P0292",
+    "name": "Aurel Flex Office Chair 112",
+    "category": "office chair",
+    "price": 381.71,
+    "rating": 4.2,
+    "review_count": 2970,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic fabric office chair with lumbar support"
+  },
+  {
+    "id": "P0293",
+    "name": "Lumo Air Office Chair 117",
+    "category": "office chair",
+    "price": 532.15,
+    "rating": 4.3,
+    "review_count": 565,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "fabric",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic fabric office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0294",
+    "name": "Peak Flex Office Chair 393",
+    "category": "office chair",
+    "price": 1206.32,
+    "rating": 4.8,
+    "review_count": 4116,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "mesh",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic mesh office chair with lumbar support"
+  },
+  {
+    "id": "P0295",
+    "name": "Crest Max Office Chair 384",
+    "category": "office chair",
+    "price": 189.74,
+    "rating": 4.0,
+    "review_count": 696,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "leather",
+      "max_weight_kg": 150
+    },
+    "description": "ergonomic leather office chair with lumbar support"
+  },
+  {
+    "id": "P0296",
+    "name": "Norde Prime Office Chair 700",
+    "category": "office chair",
+    "price": 1268.92,
+    "rating": 3.3,
+    "review_count": 553,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "leather",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic leather office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0297",
+    "name": "Peak Air Office Chair 564",
+    "category": "office chair",
+    "price": 160.07,
+    "rating": 3.2,
+    "review_count": 462,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "leather",
+      "max_weight_kg": 120
+    },
+    "description": "ergonomic leather office chair with lumbar support"
+  },
+  {
+    "id": "P0298",
+    "name": "Vanta Core Office Chair 455",
+    "category": "office chair",
+    "price": 946.56,
+    "rating": 4.3,
+    "review_count": 4296,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": true,
+      "material": "mesh",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic mesh office chair with lumbar support, adjustable arms"
+  },
+  {
+    "id": "P0299",
+    "name": "Bolt Air Office Chair 889",
+    "category": "office chair",
+    "price": 243.59,
+    "rating": 4.5,
+    "review_count": 252,
+    "attributes": {
+      "lumbar_support": false,
+      "adjustable_arms": false,
+      "material": "mesh",
+      "max_weight_kg": 136
+    },
+    "description": "ergonomic mesh office chair"
+  },
+  {
+    "id": "P0300",
+    "name": "Aurel Core Office Chair 566",
+    "category": "office chair",
+    "price": 408.17,
+    "rating": 4.9,
+    "review_count": 4196,
+    "attributes": {
+      "lumbar_support": true,
+      "adjustable_arms": false,
+      "material": "fabric",
+      "max_weight_kg": 110
+    },
+    "description": "ergonomic fabric office chair with lumbar support"
+  },
+  {
+    "id": "P0301",
+    "name": "Vanta Ultra Coffee Maker 891",
+    "category": "coffee maker",
+    "price": 693.11,
+    "rating": 3.3,
+    "review_count": 854,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 12
+    },
+    "description": "espresso coffee maker, 12 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0302",
+    "name": "Kirei Pro Coffee Maker 583",
+    "category": "coffee maker",
+    "price": 73.47,
+    "rating": 4.6,
+    "review_count": 2993,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": true,
+      "capacity_cups": 4
+    },
+    "description": "drip coffee maker, 4 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0303",
+    "name": "Astra Prime Coffee Maker 329",
+    "category": "coffee maker",
+    "price": 747.68,
+    "rating": 4.6,
+    "review_count": 2648,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": true,
+      "capacity_cups": 8
+    },
+    "description": "french press coffee maker, 8 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0304",
+    "name": "Norde Air Coffee Maker 614",
+    "category": "coffee maker",
+    "price": 246.16,
+    "rating": 3.1,
+    "review_count": 443,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 10
+    },
+    "description": "espresso coffee maker, 10 cups"
+  },
+  {
+    "id": "P0305",
+    "name": "Lumo Ultra Coffee Maker 892",
+    "category": "coffee maker",
+    "price": 765.1,
+    "rating": 3.1,
+    "review_count": 2557,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 4
+    },
+    "description": "espresso coffee maker, 4 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0306",
+    "name": "Crest Ultra Coffee Maker 857",
+    "category": "coffee maker",
+    "price": 46.06,
+    "rating": 3.4,
+    "review_count": 1999,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 12
+    },
+    "description": "espresso coffee maker, 12 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0307",
+    "name": "Astra Lite Coffee Maker 254",
+    "category": "coffee maker",
+    "price": 798.32,
+    "rating": 4.5,
+    "review_count": 64,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": false,
+      "capacity_cups": 12
+    },
+    "description": "french press coffee maker, 12 cups"
+  },
+  {
+    "id": "P0308",
+    "name": "Nexon Edge Coffee Maker 101",
+    "category": "coffee maker",
+    "price": 451.57,
+    "rating": 4.2,
+    "review_count": 3094,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": true,
+      "capacity_cups": 8
+    },
+    "description": "french press coffee maker, 8 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0309",
+    "name": "Lumo Pro Coffee Maker 245",
+    "category": "coffee maker",
+    "price": 442.66,
+    "rating": 3.5,
+    "review_count": 2304,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 8
+    },
+    "description": "espresso coffee maker, 8 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0310",
+    "name": "Norde Core Coffee Maker 865",
+    "category": "coffee maker",
+    "price": 721.94,
+    "rating": 4.0,
+    "review_count": 707,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": true,
+      "capacity_cups": 8
+    },
+    "description": "drip coffee maker, 8 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0311",
+    "name": "Crest One Coffee Maker 163",
+    "category": "coffee maker",
+    "price": 524.28,
+    "rating": 3.7,
+    "review_count": 3575,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": false,
+      "capacity_cups": 8
+    },
+    "description": "drip coffee maker, 8 cups"
+  },
+  {
+    "id": "P0312",
+    "name": "Peak Edge Coffee Maker 425",
+    "category": "coffee maker",
+    "price": 238.35,
+    "rating": 3.6,
+    "review_count": 3720,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 10
+    },
+    "description": "espresso coffee maker, 10 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0313",
+    "name": "Crest Air Coffee Maker 259",
+    "category": "coffee maker",
+    "price": 757.1,
+    "rating": 3.3,
+    "review_count": 877,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 4
+    },
+    "description": "espresso coffee maker, 4 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0314",
+    "name": "Norde Lite Coffee Maker 562",
+    "category": "coffee maker",
+    "price": 278.67,
+    "rating": 3.2,
+    "review_count": 2537,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 12
+    },
+    "description": "espresso coffee maker, 12 cups"
+  },
+  {
+    "id": "P0315",
+    "name": "Bolt One Coffee Maker 141",
+    "category": "coffee maker",
+    "price": 108.72,
+    "rating": 4.5,
+    "review_count": 1773,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": false,
+      "capacity_cups": 4
+    },
+    "description": "french press coffee maker, 4 cups"
+  },
+  {
+    "id": "P0316",
+    "name": "Peak Flex Coffee Maker 150",
+    "category": "coffee maker",
+    "price": 580.48,
+    "rating": 4.8,
+    "review_count": 2460,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 4
+    },
+    "description": "espresso coffee maker, 4 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0317",
+    "name": "Astra Flex Coffee Maker 355",
+    "category": "coffee maker",
+    "price": 763.59,
+    "rating": 4.6,
+    "review_count": 787,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 4
+    },
+    "description": "espresso coffee maker, 4 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0318",
+    "name": "Kirei Max Coffee Maker 302",
+    "category": "coffee maker",
+    "price": 132.3,
+    "rating": 3.1,
+    "review_count": 3293,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": true,
+      "capacity_cups": 8
+    },
+    "description": "french press coffee maker, 8 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0319",
+    "name": "Aurel Pro Coffee Maker 166",
+    "category": "coffee maker",
+    "price": 482.57,
+    "rating": 3.5,
+    "review_count": 1631,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 4
+    },
+    "description": "espresso coffee maker, 4 cups"
+  },
+  {
+    "id": "P0320",
+    "name": "Norde Air Coffee Maker 143",
+    "category": "coffee maker",
+    "price": 727.86,
+    "rating": 4.6,
+    "review_count": 3788,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": true,
+      "capacity_cups": 4
+    },
+    "description": "french press coffee maker, 4 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0321",
+    "name": "Nexon Prime Coffee Maker 799",
+    "category": "coffee maker",
+    "price": 664.48,
+    "rating": 3.8,
+    "review_count": 3507,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": true,
+      "capacity_cups": 12
+    },
+    "description": "drip coffee maker, 12 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0322",
+    "name": "Lumo Max Coffee Maker 135",
+    "category": "coffee maker",
+    "price": 730.31,
+    "rating": 3.5,
+    "review_count": 2025,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 8
+    },
+    "description": "espresso coffee maker, 8 cups"
+  },
+  {
+    "id": "P0323",
+    "name": "Aurel Ultra Coffee Maker 492",
+    "category": "coffee maker",
+    "price": 710.91,
+    "rating": 3.9,
+    "review_count": 1136,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 12
+    },
+    "description": "espresso coffee maker, 12 cups"
+  },
+  {
+    "id": "P0324",
+    "name": "Nexon Prime Coffee Maker 900",
+    "category": "coffee maker",
+    "price": 519.37,
+    "rating": 4.5,
+    "review_count": 2953,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": true,
+      "capacity_cups": 8
+    },
+    "description": "french press coffee maker, 8 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0325",
+    "name": "Norde Prime Coffee Maker 376",
+    "category": "coffee maker",
+    "price": 301.47,
+    "rating": 4.1,
+    "review_count": 1485,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": false,
+      "capacity_cups": 12
+    },
+    "description": "french press coffee maker, 12 cups"
+  },
+  {
+    "id": "P0326",
+    "name": "Bolt Pro Coffee Maker 928",
+    "category": "coffee maker",
+    "price": 62.27,
+    "rating": 4.5,
+    "review_count": 3876,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": false,
+      "capacity_cups": 8
+    },
+    "description": "drip coffee maker, 8 cups"
+  },
+  {
+    "id": "P0327",
+    "name": "Kirei Ultra Coffee Maker 646",
+    "category": "coffee maker",
+    "price": 780.22,
+    "rating": 3.2,
+    "review_count": 470,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 8
+    },
+    "description": "espresso coffee maker, 8 cups"
+  },
+  {
+    "id": "P0328",
+    "name": "Vanta Max Coffee Maker 342",
+    "category": "coffee maker",
+    "price": 309.65,
+    "rating": 4.6,
+    "review_count": 2617,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 12
+    },
+    "description": "espresso coffee maker, 12 cups"
+  },
+  {
+    "id": "P0329",
+    "name": "Crest One Coffee Maker 245",
+    "category": "coffee maker",
+    "price": 574.62,
+    "rating": 3.7,
+    "review_count": 4624,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 4
+    },
+    "description": "espresso coffee maker, 4 cups"
+  },
+  {
+    "id": "P0330",
+    "name": "Nexon Lite Coffee Maker 716",
+    "category": "coffee maker",
+    "price": 173.42,
+    "rating": 3.1,
+    "review_count": 1804,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 10
+    },
+    "description": "espresso coffee maker, 10 cups"
+  },
+  {
+    "id": "P0331",
+    "name": "Kirei Max Coffee Maker 448",
+    "category": "coffee maker",
+    "price": 40.52,
+    "rating": 4.7,
+    "review_count": 1465,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": false,
+      "capacity_cups": 12
+    },
+    "description": "drip coffee maker, 12 cups"
+  },
+  {
+    "id": "P0332",
+    "name": "Vanta Air Coffee Maker 966",
+    "category": "coffee maker",
+    "price": 152.26,
+    "rating": 4.3,
+    "review_count": 4323,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 4
+    },
+    "description": "espresso coffee maker, 4 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0333",
+    "name": "Crest Air Coffee Maker 444",
+    "category": "coffee maker",
+    "price": 575.45,
+    "rating": 4.3,
+    "review_count": 2484,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 10
+    },
+    "description": "espresso coffee maker, 10 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0334",
+    "name": "Lumo Edge Coffee Maker 278",
+    "category": "coffee maker",
+    "price": 596.59,
+    "rating": 3.8,
+    "review_count": 4615,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 8
+    },
+    "description": "espresso coffee maker, 8 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0335",
+    "name": "Bolt Max Coffee Maker 281",
+    "category": "coffee maker",
+    "price": 327.57,
+    "rating": 4.4,
+    "review_count": 26,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 8
+    },
+    "description": "espresso coffee maker, 8 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0336",
+    "name": "Crest Lite Coffee Maker 754",
+    "category": "coffee maker",
+    "price": 178.38,
+    "rating": 3.6,
+    "review_count": 4644,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": false,
+      "capacity_cups": 4
+    },
+    "description": "french press coffee maker, 4 cups"
+  },
+  {
+    "id": "P0337",
+    "name": "Norde Edge Coffee Maker 271",
+    "category": "coffee maker",
+    "price": 291.69,
+    "rating": 3.1,
+    "review_count": 738,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": false,
+      "capacity_cups": 8
+    },
+    "description": "drip coffee maker, 8 cups"
+  },
+  {
+    "id": "P0338",
+    "name": "Aurel Edge Coffee Maker 362",
+    "category": "coffee maker",
+    "price": 241.56,
+    "rating": 3.5,
+    "review_count": 897,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 4
+    },
+    "description": "espresso coffee maker, 4 cups"
+  },
+  {
+    "id": "P0339",
+    "name": "Vanta Prime Coffee Maker 604",
+    "category": "coffee maker",
+    "price": 373.05,
+    "rating": 3.8,
+    "review_count": 3114,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": true,
+      "capacity_cups": 12
+    },
+    "description": "drip coffee maker, 12 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0340",
+    "name": "Crest Lite Coffee Maker 266",
+    "category": "coffee maker",
+    "price": 117.09,
+    "rating": 3.9,
+    "review_count": 3708,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 12
+    },
+    "description": "espresso coffee maker, 12 cups"
+  },
+  {
+    "id": "P0341",
+    "name": "Aurel Air Coffee Maker 450",
+    "category": "coffee maker",
+    "price": 55.26,
+    "rating": 3.5,
+    "review_count": 1405,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": true,
+      "capacity_cups": 10
+    },
+    "description": "drip coffee maker, 10 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0342",
+    "name": "Aurel Edge Coffee Maker 708",
+    "category": "coffee maker",
+    "price": 455.76,
+    "rating": 4.7,
+    "review_count": 3966,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": true,
+      "capacity_cups": 4
+    },
+    "description": "french press coffee maker, 4 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0343",
+    "name": "Nexon Air Coffee Maker 439",
+    "category": "coffee maker",
+    "price": 501.56,
+    "rating": 3.8,
+    "review_count": 1695,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": false,
+      "capacity_cups": 8
+    },
+    "description": "drip coffee maker, 8 cups"
+  },
+  {
+    "id": "P0344",
+    "name": "Aurel Pro Coffee Maker 502",
+    "category": "coffee maker",
+    "price": 542.05,
+    "rating": 3.6,
+    "review_count": 4695,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 10
+    },
+    "description": "espresso coffee maker, 10 cups"
+  },
+  {
+    "id": "P0345",
+    "name": "Bolt One Coffee Maker 591",
+    "category": "coffee maker",
+    "price": 314.23,
+    "rating": 3.8,
+    "review_count": 1647,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": true,
+      "capacity_cups": 4
+    },
+    "description": "french press coffee maker, 4 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0346",
+    "name": "Aurel Core Coffee Maker 964",
+    "category": "coffee maker",
+    "price": 169.83,
+    "rating": 3.6,
+    "review_count": 958,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": true,
+      "capacity_cups": 8
+    },
+    "description": "drip coffee maker, 8 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0347",
+    "name": "Aurel Flex Coffee Maker 496",
+    "category": "coffee maker",
+    "price": 411.71,
+    "rating": 4.3,
+    "review_count": 1526,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 12
+    },
+    "description": "espresso coffee maker, 12 cups"
+  },
+  {
+    "id": "P0348",
+    "name": "Lumo Core Coffee Maker 369",
+    "category": "coffee maker",
+    "price": 181.8,
+    "rating": 3.1,
+    "review_count": 1865,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 10
+    },
+    "description": "espresso coffee maker, 10 cups"
+  },
+  {
+    "id": "P0349",
+    "name": "Aurel Air Coffee Maker 784",
+    "category": "coffee maker",
+    "price": 154.86,
+    "rating": 4.3,
+    "review_count": 2828,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 4
+    },
+    "description": "espresso coffee maker, 4 cups"
+  },
+  {
+    "id": "P0350",
+    "name": "Astra Prime Coffee Maker 648",
+    "category": "coffee maker",
+    "price": 460.74,
+    "rating": 4.6,
+    "review_count": 3901,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": false,
+      "capacity_cups": 8
+    },
+    "description": "french press coffee maker, 8 cups"
+  },
+  {
+    "id": "P0351",
+    "name": "Nexon Flex Coffee Maker 684",
+    "category": "coffee maker",
+    "price": 100.01,
+    "rating": 4.7,
+    "review_count": 4245,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 10
+    },
+    "description": "espresso coffee maker, 10 cups"
+  },
+  {
+    "id": "P0352",
+    "name": "Kirei Lite Coffee Maker 229",
+    "category": "coffee maker",
+    "price": 171.39,
+    "rating": 4.9,
+    "review_count": 361,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 12
+    },
+    "description": "espresso coffee maker, 12 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0353",
+    "name": "Vanta One Coffee Maker 364",
+    "category": "coffee maker",
+    "price": 193.46,
+    "rating": 4.6,
+    "review_count": 2631,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": true,
+      "capacity_cups": 12
+    },
+    "description": "french press coffee maker, 12 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0354",
+    "name": "Bolt Flex Coffee Maker 569",
+    "category": "coffee maker",
+    "price": 462.84,
+    "rating": 4.0,
+    "review_count": 113,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": true,
+      "capacity_cups": 12
+    },
+    "description": "drip coffee maker, 12 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0355",
+    "name": "Crest Air Coffee Maker 208",
+    "category": "coffee maker",
+    "price": 153.73,
+    "rating": 4.1,
+    "review_count": 4621,
+    "attributes": {
+      "type": "french press",
+      "built_in_grinder": true,
+      "capacity_cups": 12
+    },
+    "description": "french press coffee maker, 12 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0356",
+    "name": "Lumo One Coffee Maker 723",
+    "category": "coffee maker",
+    "price": 707.2,
+    "rating": 3.5,
+    "review_count": 3887,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": false,
+      "capacity_cups": 10
+    },
+    "description": "drip coffee maker, 10 cups"
+  },
+  {
+    "id": "P0357",
+    "name": "Peak Pro Coffee Maker 505",
+    "category": "coffee maker",
+    "price": 346.26,
+    "rating": 4.2,
+    "review_count": 2727,
+    "attributes": {
+      "type": "drip",
+      "built_in_grinder": true,
+      "capacity_cups": 10
+    },
+    "description": "drip coffee maker, 10 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0358",
+    "name": "Nexon Edge Coffee Maker 937",
+    "category": "coffee maker",
+    "price": 739.83,
+    "rating": 4.7,
+    "review_count": 2494,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": true,
+      "capacity_cups": 12
+    },
+    "description": "espresso coffee maker, 12 cups, built-in grinder to grind fresh beans"
+  },
+  {
+    "id": "P0359",
+    "name": "Kirei Max Coffee Maker 407",
+    "category": "coffee maker",
+    "price": 692.26,
+    "rating": 4.3,
+    "review_count": 3641,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 12
+    },
+    "description": "espresso coffee maker, 12 cups"
+  },
+  {
+    "id": "P0360",
+    "name": "Lumo Lite Coffee Maker 943",
+    "category": "coffee maker",
+    "price": 499.78,
+    "rating": 3.2,
+    "review_count": 3347,
+    "attributes": {
+      "type": "espresso",
+      "built_in_grinder": false,
+      "capacity_cups": 12
+    },
+    "description": "espresso coffee maker, 12 cups"
+  },
+  {
+    "id": "P0361",
+    "name": "Astra Prime Backpack 238",
+    "category": "backpack",
+    "price": 76.67,
+    "rating": 3.6,
+    "review_count": 4306,
+    "attributes": {
+      "capacity_l": 30,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.17
+    },
+    "description": "30L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0362",
+    "name": "Kirei Pro Backpack 567",
+    "category": "backpack",
+    "price": 295.7,
+    "rating": 4.6,
+    "review_count": 426,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 0.75
+    },
+    "description": "40L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0363",
+    "name": "Aurel Pro Backpack 347",
+    "category": "backpack",
+    "price": 175.87,
+    "rating": 3.8,
+    "review_count": 3063,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 0.98
+    },
+    "description": "26L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0364",
+    "name": "Norde Max Backpack 957",
+    "category": "backpack",
+    "price": 179.24,
+    "rating": 4.0,
+    "review_count": 2130,
+    "attributes": {
+      "capacity_l": 30,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.75
+    },
+    "description": "30L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0365",
+    "name": "Kirei Lite Backpack 762",
+    "category": "backpack",
+    "price": 77.94,
+    "rating": 4.1,
+    "review_count": 1856,
+    "attributes": {
+      "capacity_l": 18,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.0
+    },
+    "description": "18L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0366",
+    "name": "Nexon Core Backpack 235",
+    "category": "backpack",
+    "price": 31.52,
+    "rating": 4.5,
+    "review_count": 1430,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 1.03
+    },
+    "description": "22L backpack"
+  },
+  {
+    "id": "P0367",
+    "name": "Bolt Prime Backpack 485",
+    "category": "backpack",
+    "price": 286.65,
+    "rating": 3.6,
+    "review_count": 2868,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 0.83
+    },
+    "description": "40L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0368",
+    "name": "Peak One Backpack 204",
+    "category": "backpack",
+    "price": 245.09,
+    "rating": 4.6,
+    "review_count": 72,
+    "attributes": {
+      "capacity_l": 30,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.11
+    },
+    "description": "30L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0369",
+    "name": "Aurel Core Backpack 165",
+    "category": "backpack",
+    "price": 222.94,
+    "rating": 3.6,
+    "review_count": 2766,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 1.34
+    },
+    "description": "40L backpack"
+  },
+  {
+    "id": "P0370",
+    "name": "Bolt Lite Backpack 253",
+    "category": "backpack",
+    "price": 256.11,
+    "rating": 4.7,
+    "review_count": 4249,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 0.84
+    },
+    "description": "26L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0371",
+    "name": "Nexon Core Backpack 402",
+    "category": "backpack",
+    "price": 128.87,
+    "rating": 3.3,
+    "review_count": 2137,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": true,
+      "laptop_sleeve": false,
+      "weight_kg": 1.03
+    },
+    "description": "22L backpack, waterproof"
+  },
+  {
+    "id": "P0372",
+    "name": "Kirei Edge Backpack 843",
+    "category": "backpack",
+    "price": 214.48,
+    "rating": 4.9,
+    "review_count": 1833,
+    "attributes": {
+      "capacity_l": 30,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.46
+    },
+    "description": "30L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0373",
+    "name": "Astra Max Backpack 400",
+    "category": "backpack",
+    "price": 122.56,
+    "rating": 3.3,
+    "review_count": 811,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 0.97
+    },
+    "description": "40L backpack"
+  },
+  {
+    "id": "P0374",
+    "name": "Vanta Edge Backpack 770",
+    "category": "backpack",
+    "price": 287.71,
+    "rating": 4.4,
+    "review_count": 743,
+    "attributes": {
+      "capacity_l": 30,
+      "waterproof": true,
+      "laptop_sleeve": false,
+      "weight_kg": 0.84
+    },
+    "description": "30L backpack, waterproof"
+  },
+  {
+    "id": "P0375",
+    "name": "Norde Edge Backpack 366",
+    "category": "backpack",
+    "price": 124.8,
+    "rating": 4.5,
+    "review_count": 2420,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.47
+    },
+    "description": "22L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0376",
+    "name": "Crest Air Backpack 583",
+    "category": "backpack",
+    "price": 231.18,
+    "rating": 4.1,
+    "review_count": 1605,
+    "attributes": {
+      "capacity_l": 30,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 0.57
+    },
+    "description": "30L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0377",
+    "name": "Vanta Max Backpack 305",
+    "category": "backpack",
+    "price": 121.97,
+    "rating": 3.1,
+    "review_count": 2819,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": true,
+      "laptop_sleeve": false,
+      "weight_kg": 1.0
+    },
+    "description": "40L backpack, waterproof"
+  },
+  {
+    "id": "P0378",
+    "name": "Lumo Edge Backpack 746",
+    "category": "backpack",
+    "price": 257.59,
+    "rating": 4.5,
+    "review_count": 1460,
+    "attributes": {
+      "capacity_l": 30,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 0.91
+    },
+    "description": "30L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0379",
+    "name": "Crest Max Backpack 601",
+    "category": "backpack",
+    "price": 93.05,
+    "rating": 4.5,
+    "review_count": 733,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.09
+    },
+    "description": "26L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0380",
+    "name": "Nexon Pro Backpack 646",
+    "category": "backpack",
+    "price": 164.43,
+    "rating": 3.9,
+    "review_count": 1645,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 1.06
+    },
+    "description": "22L backpack"
+  },
+  {
+    "id": "P0381",
+    "name": "Nexon Lite Backpack 331",
+    "category": "backpack",
+    "price": 197.59,
+    "rating": 3.0,
+    "review_count": 2832,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.48
+    },
+    "description": "26L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0382",
+    "name": "Nexon Ultra Backpack 397",
+    "category": "backpack",
+    "price": 216.32,
+    "rating": 3.3,
+    "review_count": 3746,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.0
+    },
+    "description": "26L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0383",
+    "name": "Lumo Edge Backpack 868",
+    "category": "backpack",
+    "price": 348.53,
+    "rating": 3.7,
+    "review_count": 1555,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.65
+    },
+    "description": "40L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0384",
+    "name": "Nexon One Backpack 616",
+    "category": "backpack",
+    "price": 261.33,
+    "rating": 3.2,
+    "review_count": 1396,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 0.8
+    },
+    "description": "22L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0385",
+    "name": "Bolt Flex Backpack 738",
+    "category": "backpack",
+    "price": 37.14,
+    "rating": 4.7,
+    "review_count": 410,
+    "attributes": {
+      "capacity_l": 18,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 1.35
+    },
+    "description": "18L backpack"
+  },
+  {
+    "id": "P0386",
+    "name": "Aurel Prime Backpack 554",
+    "category": "backpack",
+    "price": 296.74,
+    "rating": 3.1,
+    "review_count": 3127,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": true,
+      "laptop_sleeve": false,
+      "weight_kg": 0.64
+    },
+    "description": "40L backpack, waterproof"
+  },
+  {
+    "id": "P0387",
+    "name": "Nexon Ultra Backpack 530",
+    "category": "backpack",
+    "price": 91.79,
+    "rating": 4.3,
+    "review_count": 839,
+    "attributes": {
+      "capacity_l": 18,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.41
+    },
+    "description": "18L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0388",
+    "name": "Aurel Flex Backpack 836",
+    "category": "backpack",
+    "price": 69.58,
+    "rating": 4.6,
+    "review_count": 976,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 1.29
+    },
+    "description": "40L backpack"
+  },
+  {
+    "id": "P0389",
+    "name": "Astra Lite Backpack 466",
+    "category": "backpack",
+    "price": 222.93,
+    "rating": 4.5,
+    "review_count": 3368,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.15
+    },
+    "description": "26L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0390",
+    "name": "Lumo Edge Backpack 340",
+    "category": "backpack",
+    "price": 320.87,
+    "rating": 4.3,
+    "review_count": 34,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.21
+    },
+    "description": "26L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0391",
+    "name": "Aurel Flex Backpack 176",
+    "category": "backpack",
+    "price": 242.43,
+    "rating": 3.3,
+    "review_count": 841,
+    "attributes": {
+      "capacity_l": 18,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.59
+    },
+    "description": "18L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0392",
+    "name": "Aurel Max Backpack 995",
+    "category": "backpack",
+    "price": 121.21,
+    "rating": 3.9,
+    "review_count": 335,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.79
+    },
+    "description": "26L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0393",
+    "name": "Nexon Pro Backpack 972",
+    "category": "backpack",
+    "price": 265.03,
+    "rating": 3.2,
+    "review_count": 1145,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 0.91
+    },
+    "description": "26L backpack"
+  },
+  {
+    "id": "P0394",
+    "name": "Aurel Edge Backpack 934",
+    "category": "backpack",
+    "price": 335.4,
+    "rating": 3.5,
+    "review_count": 2819,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.66
+    },
+    "description": "22L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0395",
+    "name": "Lumo Prime Backpack 764",
+    "category": "backpack",
+    "price": 173.38,
+    "rating": 4.6,
+    "review_count": 1378,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.02
+    },
+    "description": "22L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0396",
+    "name": "Aurel Prime Backpack 704",
+    "category": "backpack",
+    "price": 344.01,
+    "rating": 4.6,
+    "review_count": 3966,
+    "attributes": {
+      "capacity_l": 18,
+      "waterproof": true,
+      "laptop_sleeve": false,
+      "weight_kg": 1.44
+    },
+    "description": "18L backpack, waterproof"
+  },
+  {
+    "id": "P0397",
+    "name": "Vanta Core Backpack 599",
+    "category": "backpack",
+    "price": 278.23,
+    "rating": 4.2,
+    "review_count": 937,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.29
+    },
+    "description": "40L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0398",
+    "name": "Astra One Backpack 841",
+    "category": "backpack",
+    "price": 237.87,
+    "rating": 3.0,
+    "review_count": 4640,
+    "attributes": {
+      "capacity_l": 30,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 0.58
+    },
+    "description": "30L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0399",
+    "name": "Kirei Core Backpack 454",
+    "category": "backpack",
+    "price": 252.69,
+    "rating": 3.2,
+    "review_count": 3164,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 1.18
+    },
+    "description": "22L backpack"
+  },
+  {
+    "id": "P0400",
+    "name": "Lumo Max Backpack 176",
+    "category": "backpack",
+    "price": 76.0,
+    "rating": 4.6,
+    "review_count": 4039,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.34
+    },
+    "description": "22L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0401",
+    "name": "Peak Prime Backpack 936",
+    "category": "backpack",
+    "price": 41.36,
+    "rating": 3.4,
+    "review_count": 1937,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.76
+    },
+    "description": "26L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0402",
+    "name": "Lumo Edge Backpack 221",
+    "category": "backpack",
+    "price": 170.63,
+    "rating": 4.6,
+    "review_count": 4086,
+    "attributes": {
+      "capacity_l": 18,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.54
+    },
+    "description": "18L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0403",
+    "name": "Aurel One Backpack 733",
+    "category": "backpack",
+    "price": 206.07,
+    "rating": 3.0,
+    "review_count": 2507,
+    "attributes": {
+      "capacity_l": 18,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.04
+    },
+    "description": "18L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0404",
+    "name": "Nexon Lite Backpack 964",
+    "category": "backpack",
+    "price": 333.87,
+    "rating": 3.7,
+    "review_count": 3734,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": true,
+      "laptop_sleeve": false,
+      "weight_kg": 1.37
+    },
+    "description": "40L backpack, waterproof"
+  },
+  {
+    "id": "P0405",
+    "name": "Kirei Pro Backpack 449",
+    "category": "backpack",
+    "price": 257.67,
+    "rating": 3.2,
+    "review_count": 2921,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 1.35
+    },
+    "description": "26L backpack"
+  },
+  {
+    "id": "P0406",
+    "name": "Peak Air Backpack 360",
+    "category": "backpack",
+    "price": 316.49,
+    "rating": 3.9,
+    "review_count": 1616,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 0.64
+    },
+    "description": "26L backpack"
+  },
+  {
+    "id": "P0407",
+    "name": "Norde Air Backpack 875",
+    "category": "backpack",
+    "price": 292.98,
+    "rating": 3.4,
+    "review_count": 3407,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 0.78
+    },
+    "description": "22L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0408",
+    "name": "Lumo Pro Backpack 643",
+    "category": "backpack",
+    "price": 216.53,
+    "rating": 4.0,
+    "review_count": 409,
+    "attributes": {
+      "capacity_l": 18,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.09
+    },
+    "description": "18L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0409",
+    "name": "Vanta One Backpack 277",
+    "category": "backpack",
+    "price": 190.21,
+    "rating": 4.8,
+    "review_count": 1063,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 1.13
+    },
+    "description": "40L backpack"
+  },
+  {
+    "id": "P0410",
+    "name": "Peak Prime Backpack 723",
+    "category": "backpack",
+    "price": 311.88,
+    "rating": 4.0,
+    "review_count": 2045,
+    "attributes": {
+      "capacity_l": 18,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 1.28
+    },
+    "description": "18L backpack"
+  },
+  {
+    "id": "P0411",
+    "name": "Peak One Backpack 816",
+    "category": "backpack",
+    "price": 172.17,
+    "rating": 3.3,
+    "review_count": 4208,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.76
+    },
+    "description": "26L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0412",
+    "name": "Kirei One Backpack 831",
+    "category": "backpack",
+    "price": 204.91,
+    "rating": 3.4,
+    "review_count": 2392,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 1.46
+    },
+    "description": "26L backpack"
+  },
+  {
+    "id": "P0413",
+    "name": "Norde Air Backpack 879",
+    "category": "backpack",
+    "price": 336.46,
+    "rating": 4.0,
+    "review_count": 2897,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": true,
+      "laptop_sleeve": false,
+      "weight_kg": 1.35
+    },
+    "description": "26L backpack, waterproof"
+  },
+  {
+    "id": "P0414",
+    "name": "Astra Ultra Backpack 998",
+    "category": "backpack",
+    "price": 241.83,
+    "rating": 3.8,
+    "review_count": 3472,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": false,
+      "laptop_sleeve": false,
+      "weight_kg": 1.24
+    },
+    "description": "40L backpack"
+  },
+  {
+    "id": "P0415",
+    "name": "Bolt Max Backpack 393",
+    "category": "backpack",
+    "price": 42.25,
+    "rating": 3.1,
+    "review_count": 2064,
+    "attributes": {
+      "capacity_l": 18,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.0
+    },
+    "description": "18L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0416",
+    "name": "Norde Core Backpack 204",
+    "category": "backpack",
+    "price": 91.3,
+    "rating": 4.0,
+    "review_count": 4614,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": true,
+      "laptop_sleeve": false,
+      "weight_kg": 1.52
+    },
+    "description": "22L backpack, waterproof"
+  },
+  {
+    "id": "P0417",
+    "name": "Nexon Prime Backpack 496",
+    "category": "backpack",
+    "price": 283.97,
+    "rating": 4.3,
+    "review_count": 3424,
+    "attributes": {
+      "capacity_l": 22,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.16
+    },
+    "description": "22L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0418",
+    "name": "Lumo Lite Backpack 748",
+    "category": "backpack",
+    "price": 91.0,
+    "rating": 4.7,
+    "review_count": 3024,
+    "attributes": {
+      "capacity_l": 26,
+      "waterproof": true,
+      "laptop_sleeve": true,
+      "weight_kg": 1.47
+    },
+    "description": "26L backpack, waterproof, padded laptop sleeve"
+  },
+  {
+    "id": "P0419",
+    "name": "Aurel Max Backpack 277",
+    "category": "backpack",
+    "price": 120.61,
+    "rating": 3.3,
+    "review_count": 4221,
+    "attributes": {
+      "capacity_l": 40,
+      "waterproof": true,
+      "laptop_sleeve": false,
+      "weight_kg": 1.75
+    },
+    "description": "40L backpack, waterproof"
+  },
+  {
+    "id": "P0420",
+    "name": "Crest Ultra Backpack 105",
+    "category": "backpack",
+    "price": 205.89,
+    "rating": 3.2,
+    "review_count": 2719,
+    "attributes": {
+      "capacity_l": 18,
+      "waterproof": false,
+      "laptop_sleeve": true,
+      "weight_kg": 1.06
+    },
+    "description": "18L backpack, padded laptop sleeve"
+  },
+  {
+    "id": "P0421",
+    "name": "Crest Ultra Keyboard 602",
+    "category": "keyboard",
+    "price": 280.37,
+    "rating": 4.1,
+    "review_count": 4703,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "mechanical wireless full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0422",
+    "name": "Vanta Flex Keyboard 169",
+    "category": "keyboard",
+    "price": 112.41,
+    "rating": 3.4,
+    "review_count": 4150,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": true,
+      "layout": "60%"
+    },
+    "description": "membrane 60% keyboard, RGB backlight"
+  },
+  {
+    "id": "P0423",
+    "name": "Norde Edge Keyboard 469",
+    "category": "keyboard",
+    "price": 121.09,
+    "rating": 4.7,
+    "review_count": 2416,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": false,
+      "layout": "full"
+    },
+    "description": "mechanical full keyboard"
+  },
+  {
+    "id": "P0424",
+    "name": "Crest One Keyboard 349",
+    "category": "keyboard",
+    "price": 208.96,
+    "rating": 3.8,
+    "review_count": 338,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "mechanical full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0425",
+    "name": "Bolt Pro Keyboard 629",
+    "category": "keyboard",
+    "price": 131.12,
+    "rating": 4.0,
+    "review_count": 3083,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": false,
+      "layout": "full"
+    },
+    "description": "membrane full keyboard"
+  },
+  {
+    "id": "P0426",
+    "name": "Norde Flex Keyboard 184",
+    "category": "keyboard",
+    "price": 106.52,
+    "rating": 4.2,
+    "review_count": 798,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": false,
+      "layout": "full"
+    },
+    "description": "membrane full keyboard"
+  },
+  {
+    "id": "P0427",
+    "name": "Peak Air Keyboard 310",
+    "category": "keyboard",
+    "price": 209.34,
+    "rating": 4.5,
+    "review_count": 4417,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "mechanical wireless full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0428",
+    "name": "Norde Pro Keyboard 189",
+    "category": "keyboard",
+    "price": 213.66,
+    "rating": 3.0,
+    "review_count": 612,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": true,
+      "layout": "60%"
+    },
+    "description": "membrane 60% keyboard, RGB backlight"
+  },
+  {
+    "id": "P0429",
+    "name": "Bolt Prime Keyboard 497",
+    "category": "keyboard",
+    "price": 44.37,
+    "rating": 4.6,
+    "review_count": 3707,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": false,
+      "layout": "60%"
+    },
+    "description": "mechanical wireless 60% keyboard"
+  },
+  {
+    "id": "P0430",
+    "name": "Astra Pro Keyboard 756",
+    "category": "keyboard",
+    "price": 29.65,
+    "rating": 4.3,
+    "review_count": 530,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": false,
+      "layout": "tkl"
+    },
+    "description": "membrane tkl keyboard"
+  },
+  {
+    "id": "P0431",
+    "name": "Bolt One Keyboard 188",
+    "category": "keyboard",
+    "price": 280.21,
+    "rating": 3.2,
+    "review_count": 2318,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": true,
+      "layout": "tkl"
+    },
+    "description": "membrane wireless tkl keyboard, RGB backlight"
+  },
+  {
+    "id": "P0432",
+    "name": "Kirei Max Keyboard 864",
+    "category": "keyboard",
+    "price": 33.48,
+    "rating": 3.3,
+    "review_count": 3215,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": false,
+      "layout": "60%"
+    },
+    "description": "mechanical 60% keyboard"
+  },
+  {
+    "id": "P0433",
+    "name": "Norde Pro Keyboard 666",
+    "category": "keyboard",
+    "price": 211.25,
+    "rating": 4.7,
+    "review_count": 4559,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": true,
+      "layout": "tkl"
+    },
+    "description": "membrane tkl keyboard, RGB backlight"
+  },
+  {
+    "id": "P0434",
+    "name": "Astra Air Keyboard 412",
+    "category": "keyboard",
+    "price": 182.5,
+    "rating": 3.7,
+    "review_count": 1732,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "mechanical wireless full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0435",
+    "name": "Vanta Max Keyboard 288",
+    "category": "keyboard",
+    "price": 274.05,
+    "rating": 4.6,
+    "review_count": 1820,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": true,
+      "layout": "tkl"
+    },
+    "description": "membrane tkl keyboard, RGB backlight"
+  },
+  {
+    "id": "P0436",
+    "name": "Nexon Flex Keyboard 572",
+    "category": "keyboard",
+    "price": 74.87,
+    "rating": 4.5,
+    "review_count": 4514,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "membrane full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0437",
+    "name": "Lumo Edge Keyboard 465",
+    "category": "keyboard",
+    "price": 52.01,
+    "rating": 4.4,
+    "review_count": 1062,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": true,
+      "layout": "tkl"
+    },
+    "description": "mechanical tkl keyboard, RGB backlight"
+  },
+  {
+    "id": "P0438",
+    "name": "Norde Core Keyboard 561",
+    "category": "keyboard",
+    "price": 195.37,
+    "rating": 4.7,
+    "review_count": 2701,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": true,
+      "layout": "tkl"
+    },
+    "description": "membrane wireless tkl keyboard, RGB backlight"
+  },
+  {
+    "id": "P0439",
+    "name": "Peak Max Keyboard 104",
+    "category": "keyboard",
+    "price": 180.89,
+    "rating": 4.5,
+    "review_count": 2577,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": true,
+      "layout": "60%"
+    },
+    "description": "membrane 60% keyboard, RGB backlight"
+  },
+  {
+    "id": "P0440",
+    "name": "Norde Core Keyboard 573",
+    "category": "keyboard",
+    "price": 256.03,
+    "rating": 3.3,
+    "review_count": 3660,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": false,
+      "layout": "tkl"
+    },
+    "description": "mechanical wireless tkl keyboard"
+  },
+  {
+    "id": "P0441",
+    "name": "Aurel Ultra Keyboard 979",
+    "category": "keyboard",
+    "price": 54.93,
+    "rating": 4.2,
+    "review_count": 1158,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": false,
+      "layout": "60%"
+    },
+    "description": "mechanical 60% keyboard"
+  },
+  {
+    "id": "P0442",
+    "name": "Aurel Pro Keyboard 969",
+    "category": "keyboard",
+    "price": 268.74,
+    "rating": 3.1,
+    "review_count": 4166,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": false,
+      "layout": "60%"
+    },
+    "description": "membrane wireless 60% keyboard"
+  },
+  {
+    "id": "P0443",
+    "name": "Bolt Flex Keyboard 652",
+    "category": "keyboard",
+    "price": 83.51,
+    "rating": 3.1,
+    "review_count": 3879,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": false,
+      "layout": "60%"
+    },
+    "description": "membrane wireless 60% keyboard"
+  },
+  {
+    "id": "P0444",
+    "name": "Bolt Max Keyboard 575",
+    "category": "keyboard",
+    "price": 86.41,
+    "rating": 4.5,
+    "review_count": 4117,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": false,
+      "layout": "tkl"
+    },
+    "description": "membrane wireless tkl keyboard"
+  },
+  {
+    "id": "P0445",
+    "name": "Crest Max Keyboard 875",
+    "category": "keyboard",
+    "price": 163.1,
+    "rating": 4.3,
+    "review_count": 4223,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": false,
+      "layout": "tkl"
+    },
+    "description": "membrane wireless tkl keyboard"
+  },
+  {
+    "id": "P0446",
+    "name": "Vanta Core Keyboard 467",
+    "category": "keyboard",
+    "price": 180.75,
+    "rating": 4.1,
+    "review_count": 343,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "mechanical full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0447",
+    "name": "Kirei Flex Keyboard 910",
+    "category": "keyboard",
+    "price": 97.7,
+    "rating": 3.4,
+    "review_count": 2971,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "mechanical full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0448",
+    "name": "Aurel Flex Keyboard 748",
+    "category": "keyboard",
+    "price": 35.97,
+    "rating": 4.2,
+    "review_count": 2252,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": false,
+      "layout": "full"
+    },
+    "description": "mechanical full keyboard"
+  },
+  {
+    "id": "P0449",
+    "name": "Aurel Flex Keyboard 357",
+    "category": "keyboard",
+    "price": 204.76,
+    "rating": 3.7,
+    "review_count": 3094,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": true,
+      "layout": "tkl"
+    },
+    "description": "membrane tkl keyboard, RGB backlight"
+  },
+  {
+    "id": "P0450",
+    "name": "Crest Pro Keyboard 613",
+    "category": "keyboard",
+    "price": 158.89,
+    "rating": 3.9,
+    "review_count": 1150,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": false,
+      "layout": "tkl"
+    },
+    "description": "mechanical tkl keyboard"
+  },
+  {
+    "id": "P0451",
+    "name": "Vanta Max Keyboard 261",
+    "category": "keyboard",
+    "price": 166.5,
+    "rating": 3.5,
+    "review_count": 2979,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "mechanical wireless full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0452",
+    "name": "Lumo Core Keyboard 590",
+    "category": "keyboard",
+    "price": 248.07,
+    "rating": 4.4,
+    "review_count": 1738,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": true,
+      "layout": "tkl"
+    },
+    "description": "membrane wireless tkl keyboard, RGB backlight"
+  },
+  {
+    "id": "P0453",
+    "name": "Crest Max Keyboard 237",
+    "category": "keyboard",
+    "price": 92.01,
+    "rating": 3.2,
+    "review_count": 4211,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": false,
+      "layout": "full"
+    },
+    "description": "membrane wireless full keyboard"
+  },
+  {
+    "id": "P0454",
+    "name": "Peak One Keyboard 677",
+    "category": "keyboard",
+    "price": 96.02,
+    "rating": 3.3,
+    "review_count": 164,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "mechanical wireless full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0455",
+    "name": "Lumo Max Keyboard 324",
+    "category": "keyboard",
+    "price": 148.53,
+    "rating": 4.9,
+    "review_count": 3377,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "membrane full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0456",
+    "name": "Norde Core Keyboard 710",
+    "category": "keyboard",
+    "price": 206.4,
+    "rating": 3.5,
+    "review_count": 575,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": true,
+      "layout": "60%"
+    },
+    "description": "membrane wireless 60% keyboard, RGB backlight"
+  },
+  {
+    "id": "P0457",
+    "name": "Astra Prime Keyboard 946",
+    "category": "keyboard",
+    "price": 54.86,
+    "rating": 3.4,
+    "review_count": 1237,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": false,
+      "layout": "full"
+    },
+    "description": "mechanical full keyboard"
+  },
+  {
+    "id": "P0458",
+    "name": "Astra Flex Keyboard 870",
+    "category": "keyboard",
+    "price": 272.94,
+    "rating": 4.1,
+    "review_count": 974,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": true,
+      "layout": "tkl"
+    },
+    "description": "membrane wireless tkl keyboard, RGB backlight"
+  },
+  {
+    "id": "P0459",
+    "name": "Peak Flex Keyboard 530",
+    "category": "keyboard",
+    "price": 173.3,
+    "rating": 3.0,
+    "review_count": 3046,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": true,
+      "layout": "60%"
+    },
+    "description": "mechanical 60% keyboard, RGB backlight"
+  },
+  {
+    "id": "P0460",
+    "name": "Crest One Keyboard 200",
+    "category": "keyboard",
+    "price": 242.13,
+    "rating": 3.7,
+    "review_count": 3497,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": true,
+      "layout": "tkl"
+    },
+    "description": "mechanical tkl keyboard, RGB backlight"
+  },
+  {
+    "id": "P0461",
+    "name": "Crest Flex Keyboard 518",
+    "category": "keyboard",
+    "price": 275.27,
+    "rating": 3.2,
+    "review_count": 2123,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": false,
+      "layout": "full"
+    },
+    "description": "mechanical full keyboard"
+  },
+  {
+    "id": "P0462",
+    "name": "Peak Lite Keyboard 804",
+    "category": "keyboard",
+    "price": 168.7,
+    "rating": 4.0,
+    "review_count": 2599,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": true,
+      "layout": "60%"
+    },
+    "description": "mechanical wireless 60% keyboard, RGB backlight"
+  },
+  {
+    "id": "P0463",
+    "name": "Bolt Flex Keyboard 533",
+    "category": "keyboard",
+    "price": 142.17,
+    "rating": 4.1,
+    "review_count": 4637,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "mechanical full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0464",
+    "name": "Lumo Max Keyboard 479",
+    "category": "keyboard",
+    "price": 138.64,
+    "rating": 4.5,
+    "review_count": 4592,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": false,
+      "layout": "full"
+    },
+    "description": "mechanical full keyboard"
+  },
+  {
+    "id": "P0465",
+    "name": "Peak Max Keyboard 975",
+    "category": "keyboard",
+    "price": 183.85,
+    "rating": 4.5,
+    "review_count": 987,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": false,
+      "layout": "tkl"
+    },
+    "description": "membrane tkl keyboard"
+  },
+  {
+    "id": "P0466",
+    "name": "Astra Prime Keyboard 904",
+    "category": "keyboard",
+    "price": 286.04,
+    "rating": 3.2,
+    "review_count": 2784,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": false,
+      "layout": "60%"
+    },
+    "description": "membrane wireless 60% keyboard"
+  },
+  {
+    "id": "P0467",
+    "name": "Aurel Max Keyboard 582",
+    "category": "keyboard",
+    "price": 290.26,
+    "rating": 3.0,
+    "review_count": 3578,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": true,
+      "layout": "tkl"
+    },
+    "description": "membrane wireless tkl keyboard, RGB backlight"
+  },
+  {
+    "id": "P0468",
+    "name": "Peak Prime Keyboard 728",
+    "category": "keyboard",
+    "price": 126.98,
+    "rating": 4.2,
+    "review_count": 4280,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": false,
+      "layout": "full"
+    },
+    "description": "mechanical wireless full keyboard"
+  },
+  {
+    "id": "P0469",
+    "name": "Astra Ultra Keyboard 299",
+    "category": "keyboard",
+    "price": 160.95,
+    "rating": 3.0,
+    "review_count": 287,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": true,
+      "layout": "60%"
+    },
+    "description": "mechanical wireless 60% keyboard, RGB backlight"
+  },
+  {
+    "id": "P0470",
+    "name": "Nexon Max Keyboard 188",
+    "category": "keyboard",
+    "price": 34.92,
+    "rating": 3.5,
+    "review_count": 2272,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": true,
+      "layout": "60%"
+    },
+    "description": "membrane wireless 60% keyboard, RGB backlight"
+  },
+  {
+    "id": "P0471",
+    "name": "Aurel Air Keyboard 662",
+    "category": "keyboard",
+    "price": 186.17,
+    "rating": 4.0,
+    "review_count": 2342,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": false,
+      "layout": "tkl"
+    },
+    "description": "mechanical tkl keyboard"
+  },
+  {
+    "id": "P0472",
+    "name": "Lumo Prime Keyboard 688",
+    "category": "keyboard",
+    "price": 87.23,
+    "rating": 4.8,
+    "review_count": 50,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": false,
+      "layout": "tkl"
+    },
+    "description": "membrane tkl keyboard"
+  },
+  {
+    "id": "P0473",
+    "name": "Bolt Edge Keyboard 219",
+    "category": "keyboard",
+    "price": 54.28,
+    "rating": 3.1,
+    "review_count": 4216,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": false,
+      "layout": "60%"
+    },
+    "description": "mechanical wireless 60% keyboard"
+  },
+  {
+    "id": "P0474",
+    "name": "Norde Core Keyboard 797",
+    "category": "keyboard",
+    "price": 179.87,
+    "rating": 4.5,
+    "review_count": 3786,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": false,
+      "layout": "tkl"
+    },
+    "description": "mechanical tkl keyboard"
+  },
+  {
+    "id": "P0475",
+    "name": "Kirei Lite Keyboard 919",
+    "category": "keyboard",
+    "price": 95.9,
+    "rating": 3.7,
+    "review_count": 2598,
+    "attributes": {
+      "mechanical": false,
+      "wireless": true,
+      "rgb": false,
+      "layout": "full"
+    },
+    "description": "membrane wireless full keyboard"
+  },
+  {
+    "id": "P0476",
+    "name": "Aurel Prime Keyboard 789",
+    "category": "keyboard",
+    "price": 253.85,
+    "rating": 3.5,
+    "review_count": 2813,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": true,
+      "layout": "60%"
+    },
+    "description": "mechanical 60% keyboard, RGB backlight"
+  },
+  {
+    "id": "P0477",
+    "name": "Bolt Max Keyboard 864",
+    "category": "keyboard",
+    "price": 122.22,
+    "rating": 4.7,
+    "review_count": 1569,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": false,
+      "layout": "tkl"
+    },
+    "description": "mechanical wireless tkl keyboard"
+  },
+  {
+    "id": "P0478",
+    "name": "Kirei Lite Keyboard 954",
+    "category": "keyboard",
+    "price": 91.57,
+    "rating": 3.5,
+    "review_count": 2057,
+    "attributes": {
+      "mechanical": true,
+      "wireless": true,
+      "rgb": true,
+      "layout": "60%"
+    },
+    "description": "mechanical wireless 60% keyboard, RGB backlight"
+  },
+  {
+    "id": "P0479",
+    "name": "Lumo One Keyboard 106",
+    "category": "keyboard",
+    "price": 57.97,
+    "rating": 3.1,
+    "review_count": 4447,
+    "attributes": {
+      "mechanical": false,
+      "wireless": false,
+      "rgb": true,
+      "layout": "full"
+    },
+    "description": "membrane full keyboard, RGB backlight"
+  },
+  {
+    "id": "P0480",
+    "name": "Crest Ultra Keyboard 602",
+    "category": "keyboard",
+    "price": 111.74,
+    "rating": 4.7,
+    "review_count": 1510,
+    "attributes": {
+      "mechanical": true,
+      "wireless": false,
+      "rgb": false,
+      "layout": "60%"
+    },
+    "description": "mechanical 60% keyboard"
+  }
+]

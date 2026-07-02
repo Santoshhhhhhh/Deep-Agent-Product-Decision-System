@@ -1,0 +1,18 @@
+{
+  "n_queries": 1200,
+  "llm_mode": "mock",
+  "top5_relevance": {
+    "agent_system": 0.754,
+    "baseline": 0.6835
+  },
+  "constraint_violation_rate_top5": {
+    "agent_system": 0.095,
+    "baseline": 0.095
+  },
+  "head_to_head": {
+    "wins": 221,
+    "ties": 977,
+    "losses": 2
+  },
+  "elapsed_seconds": 22.3
+}

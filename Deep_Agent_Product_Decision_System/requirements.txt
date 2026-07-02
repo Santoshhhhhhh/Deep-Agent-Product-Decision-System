@@ -1,0 +1,4 @@
+langgraph>=0.2
+pydantic>=2.5
+anthropic>=0.40  # only needed for DEEP_AGENT_LLM=anthropic
+pytest>=8.0
