@@ -107,5 +107,3 @@ python -m pytest tests/ -v
 Covers: VFS round-trips, constraint semantics, Pydantic rejection of
 malformed plans, end-to-end constraint enforcement, bounded-loop
 termination at `max_revisions=0`, and parallel specialist fan-out.
-
-\
