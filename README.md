@@ -136,16 +136,3 @@ deep-agent-recsys/
 └── tests/test_pipeline.py
 ```
 
-## Design decisions worth calling out in an interview
-
-- **Validation at every boundary**: a malformed LLM output raises
-  `ValidationError` immediately and triggers a schema-guided retry instead of
-  corrupting downstream agents.
-- **Deterministic critic**: constraint verification is pure code against
-  ground truth — LLMs plan and rank; code verifies.
-- **Monotonic feedback accumulation**: the aggregator merges exclusions from
-  *all* critic rounds, making the bounded loop provably convergent.
-- **VFS over fat graph state**: checkpoints stay small; every run leaves a
-  complete, replayable audit trail of artifacts.
-- **Mock backend parity**: the same prompts/schemas drive both backends, so
-  the entire pipeline and eval are testable offline and in CI at zero cost.
