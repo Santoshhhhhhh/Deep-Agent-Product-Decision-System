@@ -108,31 +108,4 @@ Covers: VFS round-trips, constraint semantics, Pydantic rejection of
 malformed plans, end-to-end constraint enforcement, bounded-loop
 termination at `max_revisions=0`, and parallel specialist fan-out.
 
-## Project layout
-
-```
-deep-agent-recsys/
-├── data/
-│   ├── generate_catalog.py     # deterministic synthetic catalog
-│   └── products.json
-├── src/deep_agent/
-│   ├── state.py                # Pydantic models + LangGraph state
-│   ├── vfs.py                  # shared virtual file system
-│   ├── llm.py                  # LLM wrapper (anthropic | mock) + validated calls
-│   ├── mock_brain.py           # deterministic offline backend
-│   ├── catalog.py              # ground-truth product catalog
-│   ├── graph.py                # LangGraph wiring (fan-out, critic loop)
-│   ├── main.py                 # CLI
-│   └── agents/
-│       ├── planner.py
-│       ├── specialists.py
-│       ├── aggregator.py
-│       └── critic.py
-├── eval/
-│   ├── generate_queries.py     # templated eval query set
-│   ├── baseline.py             # constraint-filter baseline
-│   ├── autorater.py            # LLM-as-judge (strict rubric)
-│   └── run_eval.py             # harness + results.json
-└── tests/test_pipeline.py
-```
-
+\
